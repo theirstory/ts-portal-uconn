@@ -3,8 +3,8 @@
 
   "organization": {
     "name": "University of Connecticut",
-    "displayName": "African American Oral Histories",
-    "description": "A digital archive of oral histories from African American individuals, created by the University of Connecticut Department of History.",
+    "displayName": "Audiovisual Collections",
+    "description": "A digital archive of oral histories, focus groups, lectures, and other spoken-word recordings representing the community of Connecticut",
     "logo": {
       "_comment": "Optional custom logo path from /public (example: /images/logo.png). If empty, default LogoArchive is used.",
       "path": "/images/uconn-logo-transparent.png",
