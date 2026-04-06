@@ -181,7 +181,7 @@ export const StoryContainer = ({ storyUuid }: { storyUuid: string }) => {
             sx={{
               flex: 1,
               overflow: 'auto',
-              pb: '70px', // Space for progress bar
+              pb: '68px', // Space for progress bar
             }}>
             {/* Transcription Tab */}
             {mobileTabValue === 0 && (
