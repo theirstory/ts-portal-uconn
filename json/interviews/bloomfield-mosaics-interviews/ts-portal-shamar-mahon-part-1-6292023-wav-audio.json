@@ -1,0 +1,2526 @@
+{
+  "transcript": {
+    "_id": "65bb3f9124c13d6ef0efd833",
+    "created_at": "2024-02-01T06:52:01.125Z",
+    "words": [
+      {
+        "start": 0.06,
+        "end": 0.56,
+        "text": "Shemar"
+      },
+      {
+        "start": 4.6,
+        "end": 4.8599997,
+        "text": "this"
+      },
+      {
+        "text": "is,",
+        "start": 4.8599997,
+        "end": 5.106119700000001
+      },
+      {
+        "text": "well",
+        "start": 5.106119700000001,
+        "end": 5.4060297
+      },
+      {
+        "start": 6.66,
+        "end": 6.8999996,
+        "text": "first"
+      },
+      {
+        "start": 6.8999996,
+        "end": 7.12,
+        "text": "my"
+      },
+      {
+        "start": 7.12,
+        "end": 7.3399997,
+        "text": "name"
+      },
+      {
+        "start": 7.3399997,
+        "end": 7.5,
+        "text": "is"
+      },
+      {
+        "start": 7.5,
+        "end": 7.7599998,
+        "text": "John"
+      },
+      {
+        "text": "Capadonna",
+        "start": 7.7599998,
+        "end": 8.24
+      },
+      {
+        "start": 8.24,
+        "end": 8.44,
+        "text": "and"
+      },
+      {
+        "start": 8.44,
+        "end": 8.66,
+        "text": "I'm"
+      },
+      {
+        "start": 8.66,
+        "end": 9.16,
+        "text": "conducting"
+      },
+      {
+        "start": 9.22,
+        "end": 9.38,
+        "text": "an"
+      },
+      {
+        "start": 9.38,
+        "end": 9.719999,
+        "text": "oral"
+      },
+      {
+        "start": 9.719999,
+        "end": 10.219999,
+        "text": "history"
+      },
+      {
+        "start": 10.58,
+        "end": 10.8,
+        "text": "with"
+      },
+      {
+        "text": "Shamar",
+        "start": 10.8,
+        "end": 11.20749
+      },
+      {
+        "text": "Mahon",
+        "start": 11.20749,
+        "end": 11.56119
+      },
+      {
+        "start": 12.04,
+        "end": 12.54,
+        "text": "today"
+      },
+      {
+        "start": 12.74,
+        "end": 13.24,
+        "text": "is"
+      },
+      {
+        "start": 14.04,
+        "end": 14.34,
+        "text": "June"
+      },
+      {
+        "start": 14.34,
+        "end": 14.84,
+        "text": "29th"
+      },
+      {
+        "start": 15.4,
+        "end": 15.9,
+        "text": "2023"
+      },
+      {
+        "start": 17.02,
+        "end": 17.08,
+        "text": "and"
+      },
+      {
+        "start": 17.08,
+        "end": 17.44,
+        "text": "we're"
+      },
+      {
+        "start": 17.44,
+        "end": 17.619999,
+        "text": "at"
+      },
+      {
+        "start": 17.619999,
+        "end": 17.86,
+        "text": "his"
+      },
+      {
+        "start": 17.86,
+        "end": 18.36,
+        "text": "home"
+      },
+      {
+        "start": 18.48,
+        "end": 18.7,
+        "text": "in"
+      },
+      {
+        "start": 18.7,
+        "end": 19.2,
+        "text": "Bloomfield"
+      },
+      {
+        "start": 20.24,
+        "end": 20.74,
+        "text": "and"
+      },
+      {
+        "start": 21.58,
+        "end": 21.779999,
+        "text": "we're"
+      },
+      {
+        "start": 21.779999,
+        "end": 21.94,
+        "text": "going"
+      },
+      {
+        "start": 21.94,
+        "end": 22.04,
+        "text": "to"
+      },
+      {
+        "start": 22.04,
+        "end": 22.2,
+        "text": "be"
+      },
+      {
+        "start": 22.2,
+        "end": 22.6,
+        "text": "talking"
+      },
+      {
+        "start": 22.6,
+        "end": 22.76,
+        "text": "for"
+      },
+      {
+        "start": 22.76,
+        "end": 22.92,
+        "text": "a"
+      },
+      {
+        "start": 22.92,
+        "end": 23.16,
+        "text": "little"
+      },
+      {
+        "start": 23.16,
+        "end": 23.66,
+        "text": "while."
+      },
+      {
+        "start": 24.32,
+        "end": 24.52,
+        "text": "Can"
+      },
+      {
+        "start": 24.52,
+        "end": 24.72,
+        "text": "we"
+      },
+      {
+        "start": 24.72,
+        "end": 25.08,
+        "text": "begin"
+      },
+      {
+        "start": 25.08,
+        "end": 25.279999,
+        "text": "with"
+      },
+      {
+        "start": 25.279999,
+        "end": 25.64,
+        "text": "your"
+      },
+      {
+        "start": 25.64,
+        "end": 26.14,
+        "text": "family"
+      },
+      {
+        "start": 26.16,
+        "end": 26.66,
+        "text": "background,"
+      },
+      {
+        "start": 26.66,
+        "end": 27.16,
+        "text": "Shamar?"
+      },
+      {
+        "start": 27.380001,
+        "end": 27.619999,
+        "text": "Yes."
+      },
+      {
+        "start": 27.619999,
+        "end": 27.74,
+        "text": "Tell"
+      },
+      {
+        "start": 27.74,
+        "end": 27.98,
+        "text": "us"
+      },
+      {
+        "start": 27.98,
+        "end": 28.08,
+        "text": "a"
+      },
+      {
+        "start": 28.08,
+        "end": 28.259998,
+        "text": "little"
+      },
+      {
+        "start": 28.259998,
+        "end": 28.439999,
+        "text": "bit"
+      },
+      {
+        "start": 28.439999,
+        "end": 28.619999,
+        "text": "about"
+      },
+      {
+        "start": 28.619999,
+        "end": 28.84,
+        "text": "your"
+      },
+      {
+        "start": 28.84,
+        "end": 29.18,
+        "text": "family"
+      },
+      {
+        "start": 29.18,
+        "end": 29.68,
+        "text": "history."
+      },
+      {
+        "start": 29.7,
+        "end": 30.06,
+        "text": "Definitely."
+      },
+      {
+        "start": 30.06,
+        "end": 30.56,
+        "text": "So,"
+      },
+      {
+        "start": 31.5,
+        "end": 31.88,
+        "text": "Shamar"
+      },
+      {
+        "text": "Mahon,",
+        "start": 31.88,
+        "end": 32.28749
+      },
+      {
+        "start": 33.48,
+        "end": 33.66,
+        "text": "my"
+      },
+      {
+        "start": 33.66,
+        "end": 34.12,
+        "text": "family"
+      },
+      {
+        "start": 34.12,
+        "end": 34.58,
+        "text": "background"
+      },
+      {
+        "start": 34.58,
+        "end": 34.739998,
+        "text": "is"
+      },
+      {
+        "start": 34.739998,
+        "end": 35.239998,
+        "text": "Jamaican"
+      },
+      {
+        "start": 35.58,
+        "end": 35.76,
+        "text": "on"
+      },
+      {
+        "start": 35.76,
+        "end": 36.02,
+        "text": "both"
+      },
+      {
+        "start": 36.02,
+        "end": 36.38,
+        "text": "sides."
+      },
+      {
+        "start": 36.38,
+        "end": 36.56,
+        "text": "My"
+      },
+      {
+        "start": 36.56,
+        "end": 37.06,
+        "text": "mother"
+      },
+      {
+        "start": 37.239998,
+        "end": 37.42,
+        "text": "and"
+      },
+      {
+        "start": 37.42,
+        "end": 37.66,
+        "text": "my"
+      },
+      {
+        "start": 37.66,
+        "end": 38.04,
+        "text": "father"
+      },
+      {
+        "start": 38.04,
+        "end": 38.14,
+        "text": "are"
+      },
+      {
+        "start": 38.14,
+        "end": 38.36,
+        "text": "both"
+      },
+      {
+        "start": 38.36,
+        "end": 38.62,
+        "text": "from"
+      },
+      {
+        "start": 38.62,
+        "end": 39.12,
+        "text": "Jamaica."
+      },
+      {
+        "start": 39.66,
+        "end": 40.04,
+        "text": "Born"
+      },
+      {
+        "start": 40.04,
+        "end": 40.2,
+        "text": "and"
+      },
+      {
+        "start": 40.2,
+        "end": 40.46,
+        "text": "raised"
+      },
+      {
+        "start": 40.46,
+        "end": 40.6,
+        "text": "and"
+      },
+      {
+        "start": 40.6,
+        "end": 40.96,
+        "text": "then,"
+      },
+      {
+        "start": 40.96,
+        "end": 41.4,
+        "text": "well,"
+      },
+      {
+        "start": 41.4,
+        "end": 41.9,
+        "text": "eventually"
+      },
+      {
+        "start": 42.04,
+        "end": 42.28,
+        "text": "came"
+      },
+      {
+        "start": 42.28,
+        "end": 42.46,
+        "text": "up"
+      },
+      {
+        "start": 42.46,
+        "end": 42.72,
+        "text": "here"
+      },
+      {
+        "start": 42.72,
+        "end": 42.9,
+        "text": "to"
+      },
+      {
+        "start": 42.9,
+        "end": 43.3,
+        "text": "America"
+      },
+      {
+        "start": 43.3,
+        "end": 43.48,
+        "text": "where"
+      },
+      {
+        "start": 43.48,
+        "end": 43.7,
+        "text": "they"
+      },
+      {
+        "start": 43.7,
+        "end": 44.2,
+        "text": "met."
+      },
+      {
+        "start": 44.44,
+        "end": 44.6,
+        "text": "How"
+      },
+      {
+        "start": 44.6,
+        "end": 44.8,
+        "text": "old"
+      },
+      {
+        "start": 44.8,
+        "end": 44.96,
+        "text": "were"
+      },
+      {
+        "start": 44.96,
+        "end": 45.12,
+        "text": "they"
+      },
+      {
+        "start": 45.12,
+        "end": 45.34,
+        "text": "when"
+      },
+      {
+        "start": 45.34,
+        "end": 45.54,
+        "text": "they"
+      },
+      {
+        "start": 45.54,
+        "end": 45.72,
+        "text": "came"
+      },
+      {
+        "start": 45.72,
+        "end": 46.22,
+        "text": "here?"
+      },
+      {
+        "start": 46.96,
+        "end": 47.36,
+        "text": "That's"
+      },
+      {
+        "start": 47.36,
+        "end": 47.58,
+        "text": "a"
+      },
+      {
+        "start": 47.58,
+        "end": 48,
+        "text": "great"
+      },
+      {
+        "start": 48,
+        "end": 48.5,
+        "text": "question."
+      },
+      {
+        "start": 48.58,
+        "end": 49.08,
+        "text": "How"
+      },
+      {
+        "start": 49.86,
+        "end": 50.02,
+        "text": "old"
+      },
+      {
+        "start": 50.02,
+        "end": 50.14,
+        "text": "was"
+      },
+      {
+        "start": 50.14,
+        "end": 50.34,
+        "text": "my"
+      },
+      {
+        "start": 50.34,
+        "end": 50.84,
+        "text": "mom?"
+      },
+      {
+        "text": "She",
+        "start": 50.84,
+        "end": 51.08612
+      },
+      {
+        "text": "must",
+        "start": 51.08612,
+        "end": 51.38603
+      },
+      {
+        "text": "have",
+        "start": 51.38603,
+        "end": 51.685939999999995
+      },
+      {
+        "text": "been",
+        "start": 51.685939999999995,
+        "end": 51.98584999999999
+      },
+      {
+        "text": "about",
+        "start": 51.98584999999999,
+        "end": 52.339549999999996
+      },
+      {
+        "text": "high",
+        "start": 52.339549999999996,
+        "end": 52.63945999999999
+      },
+      {
+        "text": "school,",
+        "start": 52.63945999999999,
+        "end": 53.100739999999995
+      },
+      {
+        "text": "she",
+        "start": 53.100739999999995,
+        "end": 53.34685999999999
+      },
+      {
+        "text": "was",
+        "start": 53.34685999999999,
+        "end": 53.59297999999999
+      },
+      {
+        "text": "14.",
+        "start": 53.59297999999999,
+        "end": 53.83909999999999
+      },
+      {
+        "text": "Well,",
+        "start": 54.8,
+        "end": 54.8268154068618
+      },
+      {
+        "text": "if",
+        "start": 54.8268154068618,
+        "end": 54.84139671079657
+      },
+      {
+        "text": "she's",
+        "start": 54.84139671079657,
+        "end": 54.86821211765837
+      },
+      {
+        "text": "a",
+        "start": 54.86821211765837,
+        "end": 54.87871538728414
+      },
+      {
+        "text": "teeanger",
+        "start": 54.87871538728414,
+        "end": 54.91776489707296
+      },
+      {
+        "text": "that's",
+        "start": 54.91776489707296,
+        "end": 54.948658338243774
+      },
+      {
+        "text": "close",
+        "start": 54.948658338243774,
+        "end": 54.975473745105575
+      },
+      {
+        "text": "enough",
+        "start": 54.975473745105575,
+        "end": 55.006367186276385
+      },
+      {
+        "text": "because",
+        "start": 55.006367186276385,
+        "end": 55.04133866175621
+      },
+      {
+        "text": "you",
+        "start": 55.04133866175621,
+        "end": 55.05999799999999
+      },
+      {
+        "start": 55.059998,
+        "end": 55.22,
+        "text": "went"
+      },
+      {
+        "start": 55.22,
+        "end": 55.44,
+        "text": "to"
+      },
+      {
+        "start": 55.44,
+        "end": 55.760002,
+        "text": "Weaver"
+      },
+      {
+        "start": 55.760002,
+        "end": 56,
+        "text": "High"
+      },
+      {
+        "start": 56,
+        "end": 56.4,
+        "text": "School."
+      },
+      {
+        "start": 56.4,
+        "end": 56.620000000000005,
+        "text": "She"
+      },
+      {
+        "text": "had",
+        "start": 56.730000000000004,
+        "end": 56.73972477855126
+      },
+      {
+        "text": "to",
+        "start": 56.73972477855126,
+        "end": 56.747324188021295
+      },
+      {
+        "text": "have",
+        "start": 56.747324188021295,
+        "end": 56.75917433565379
+      },
+      {
+        "text": "gone",
+        "start": 56.75917433565379,
+        "end": 56.77102448328628
+      },
+      {
+        "text": "to",
+        "start": 56.77102448328628,
+        "end": 56.778623892756315
+      },
+      {
+        "text": "Weaver",
+        "start": 56.778623892756315,
+        "end": 56.79472477855127
+      },
+      {
+        "text": "when",
+        "start": 56.79472477855127,
+        "end": 56.806574926183764
+      },
+      {
+        "text": "she",
+        "start": 56.806574926183764,
+        "end": 56.81629970473502
+      },
+      {
+        "text": "came.",
+        "start": 56.81629970473502,
+        "end": 56.82328746309189
+      },
+      {
+        "text": "That",
+        "start": 56.82678134227031,
+        "end": 56.827353806133466
+      },
+      {
+        "text": "means",
+        "start": 56.827353806133466,
+        "end": 56.828028943569365
+      },
+      {
+        "text": "she",
+        "start": 56.828028943569365,
+        "end": 56.82849873385979
+      },
+      {
+        "text": "was",
+        "start": 56.82849873385979,
+        "end": 56.82896852415021
+      },
+      {
+        "text": "like",
+        "start": 56.82896852415021,
+        "end": 56.82954098801337
+      },
+      {
+        "text": "14.",
+        "start": 56.82954098801337,
+        "end": 56.830010778303794
+      },
+      {
+        "text": "I",
+        "start": 74.06,
+        "end": 74.19854000000001
+      },
+      {
+        "start": 74.28,
+        "end": 74.5,
+        "text": "have"
+      },
+      {
+        "start": 74.5,
+        "end": 74.96,
+        "text": "my"
+      },
+      {
+        "start": 74.96,
+        "end": 75.46,
+        "text": "grandmother"
+      },
+      {
+        "start": 75.9,
+        "end": 76.22,
+        "text": "help"
+      },
+      {
+        "start": 76.22,
+        "end": 76.64,
+        "text": "me"
+      },
+      {
+        "start": 76.64,
+        "end": 77.02,
+        "text": "assisting"
+      },
+      {
+        "start": 77.02,
+        "end": 77.16,
+        "text": "me"
+      },
+      {
+        "start": 77.16,
+        "end": 77.44,
+        "text": "with"
+      },
+      {
+        "start": 77.44,
+        "end": 77.68,
+        "text": "the"
+      },
+      {
+        "start": 77.68,
+        "end": 77.9,
+        "text": "with"
+      },
+      {
+        "start": 77.9,
+        "end": 78.08,
+        "text": "the"
+      },
+      {
+        "start": 78.08,
+        "end": 78.56,
+        "text": "details"
+      },
+      {
+        "start": 78.56,
+        "end": 78.76,
+        "text": "such"
+      },
+      {
+        "start": 78.76,
+        "end": 78.96,
+        "text": "as"
+      },
+      {
+        "start": 78.96,
+        "end": 79.12,
+        "text": "that"
+      },
+      {
+        "start": 79.12,
+        "end": 79.62,
+        "text": "so"
+      },
+      {
+        "start": 80.74,
+        "end": 80.86,
+        "text": "my"
+      },
+      {
+        "start": 81.06,
+        "end": 81.32,
+        "text": "mom"
+      },
+      {
+        "start": 81.32,
+        "end": 81.58,
+        "text": "was"
+      },
+      {
+        "start": 81.58,
+        "end": 81.68,
+        "text": "a"
+      },
+      {
+        "text": "teenager,",
+        "start": 81.68,
+        "end": 82.24886000000001
+      },
+      {
+        "start": 82.9,
+        "end": 83.1,
+        "text": "my"
+      },
+      {
+        "start": 83.1,
+        "end": 83.36,
+        "text": "dad"
+      },
+      {
+        "start": 83.36,
+        "end": 83.68,
+        "text": "was"
+      },
+      {
+        "start": 83.68,
+        "end": 84.08,
+        "text": "also"
+      },
+      {
+        "start": 84.08,
+        "end": 84.24,
+        "text": "a"
+      },
+      {
+        "start": 84.24,
+        "end": 84.72,
+        "text": "teenager"
+      },
+      {
+        "start": 84.72,
+        "end": 84.94,
+        "text": "when"
+      },
+      {
+        "start": 84.94,
+        "end": 85.12,
+        "text": "he"
+      },
+      {
+        "start": 85.12,
+        "end": 85.44,
+        "text": "came"
+      },
+      {
+        "start": 85.44,
+        "end": 85.94,
+        "text": "up"
+      },
+      {
+        "start": 86.84,
+        "end": 87.16,
+        "text": "by"
+      },
+      {
+        "start": 87.16,
+        "end": 87.28,
+        "text": "I"
+      },
+      {
+        "start": 87.28,
+        "end": 87.56,
+        "text": "think"
+      },
+      {
+        "start": 87.56,
+        "end": 87.76,
+        "text": "he"
+      },
+      {
+        "start": 87.76,
+        "end": 87.979996,
+        "text": "was"
+      },
+      {
+        "start": 87.979996,
+        "end": 88.479996,
+        "text": "around"
+      },
+      {
+        "text": "16-17.",
+        "start": 88.479996,
+        "end": 88.887486
+      },
+      {
+        "text": "It",
+        "start": 88.887486,
+        "end": 89.079816
+      },
+      {
+        "start": 90.04,
+        "end": 90.06,
+        "text": "sounds"
+      },
+      {
+        "start": 90.06,
+        "end": 90.3,
+        "text": "like"
+      },
+      {
+        "start": 90.3,
+        "end": 90.48,
+        "text": "my"
+      },
+      {
+        "start": 90.48,
+        "end": 90.72,
+        "text": "mom"
+      },
+      {
+        "start": 90.72,
+        "end": 90.92,
+        "text": "was"
+      },
+      {
+        "start": 90.92,
+        "end": 91.28,
+        "text": "around"
+      },
+      {
+        "start": 91.28,
+        "end": 91.78,
+        "text": "14"
+      },
+      {
+        "start": 91.84,
+        "end": 92.04,
+        "text": "at"
+      },
+      {
+        "start": 92.04,
+        "end": 92.2,
+        "text": "the"
+      },
+      {
+        "start": 92.2,
+        "end": 92.7,
+        "text": "time"
+      },
+      {
+        "start": 93.84,
+        "end": 94.16,
+        "text": "that"
+      },
+      {
+        "start": 94.16,
+        "end": 94.54,
+        "text": "she"
+      },
+      {
+        "start": 94.54,
+        "end": 94.76,
+        "text": "came"
+      },
+      {
+        "start": 94.76,
+        "end": 95.2,
+        "text": "up."
+      },
+      {
+        "start": 95.2,
+        "end": 95.28,
+        "text": "I"
+      },
+      {
+        "start": 95.28,
+        "end": 95.54,
+        "text": "believe"
+      },
+      {
+        "start": 95.54,
+        "end": 95.66,
+        "text": "they"
+      },
+      {
+        "start": 95.66,
+        "end": 95.9,
+        "text": "met"
+      },
+      {
+        "start": 95.9,
+        "end": 96.02,
+        "text": "in"
+      },
+      {
+        "start": 96.02,
+        "end": 96.2,
+        "text": "their"
+      },
+      {
+        "start": 96.2,
+        "end": 96.7,
+        "text": "20s."
+      },
+      {
+        "start": 97.06,
+        "end": 97.2,
+        "text": "And"
+      },
+      {
+        "start": 97.2,
+        "end": 97.58,
+        "text": "Ruby"
+      },
+      {
+        "start": 97.58,
+        "end": 97.76,
+        "text": "is"
+      },
+      {
+        "start": 97.76,
+        "end": 97.94,
+        "text": "your"
+      },
+      {
+        "start": 97.94,
+        "end": 98.44,
+        "text": "maternal"
+      },
+      {
+        "start": 98.479996,
+        "end": 98.979996,
+        "text": "grandma?"
+      },
+      {
+        "start": 99.06,
+        "end": 99.56,
+        "text": "Yes,"
+      },
+      {
+        "start": 99.66,
+        "end": 99.86,
+        "text": "my"
+      },
+      {
+        "start": 99.86,
+        "end": 100.24,
+        "text": "maternal"
+      },
+      {
+        "start": 100.24,
+        "end": 100.74,
+        "text": "grandmother."
+      },
+      {
+        "start": 100.9,
+        "end": 101.4,
+        "text": "Okay."
+      },
+      {
+        "start": 103.94,
+        "end": 104.44,
+        "text": "Great."
+      },
+      {
+        "start": 104.44,
+        "end": 104.94,
+        "text": "So"
+      },
+      {
+        "start": 105.74,
+        "end": 106.020004,
+        "text": "let's"
+      },
+      {
+        "start": 106.020004,
+        "end": 106.520004,
+        "text": "see."
+      },
+      {
+        "start": 109.66,
+        "end": 110.16,
+        "text": "1986"
+      },
+      {
+        "start": 110.86,
+        "end": 111.04,
+        "text": "did"
+      },
+      {
+        "start": 111.04,
+        "end": 111.28,
+        "text": "you"
+      },
+      {
+        "start": 111.28,
+        "end": 111.78,
+        "text": "say?"
+      },
+      {
+        "start": 112.12,
+        "end": 112.38,
+        "text": "No,"
+      },
+      {
+        "start": 112.38,
+        "end": 112.78,
+        "text": "excuse"
+      },
+      {
+        "start": 112.78,
+        "end": 112.96,
+        "text": "me,"
+      },
+      {
+        "start": 112.96,
+        "end": 113.08,
+        "text": "I'm"
+      },
+      {
+        "start": 113.08,
+        "end": 113.58,
+        "text": "sorry."
+      },
+      {
+        "start": 116.04,
+        "end": 116.24,
+        "text": "That's"
+      },
+      {
+        "start": 116.24,
+        "end": 116.54,
+        "text": "not"
+      },
+      {
+        "start": 116.54,
+        "end": 117.04,
+        "text": "right."
+      },
+      {
+        "start": 117.34,
+        "end": 117.479996,
+        "text": "What"
+      },
+      {
+        "start": 117.479996,
+        "end": 117.72,
+        "text": "year"
+      },
+      {
+        "start": 117.72,
+        "end": 117.86,
+        "text": "do"
+      },
+      {
+        "start": 117.86,
+        "end": 118.02,
+        "text": "you"
+      },
+      {
+        "start": 118.02,
+        "end": 118.52,
+        "text": "think"
+      },
+      {
+        "start": 118.58,
+        "end": 118.86,
+        "text": "it"
+      },
+      {
+        "start": 118.86,
+        "end": 119.2,
+        "text": "was"
+      },
+      {
+        "start": 119.2,
+        "end": 119.479996,
+        "text": "when"
+      },
+      {
+        "start": 119.479996,
+        "end": 119.979996,
+        "text": "you,"
+      },
+      {
+        "start": 120.68,
+        "end": 121.18,
+        "text": "when"
+      },
+      {
+        "start": 121.18,
+        "end": 121.4,
+        "text": "your"
+      },
+      {
+        "start": 121.4,
+        "end": 121.78,
+        "text": "daughter"
+      },
+      {
+        "start": 121.78,
+        "end": 122.02,
+        "text": "came"
+      },
+      {
+        "start": 122.02,
+        "end": 122.52,
+        "text": "here?"
+      },
+      {
+        "start": 123.28,
+        "end": 123.52,
+        "text": "She"
+      },
+      {
+        "start": 123.52,
+        "end": 123.69,
+        "text": "came"
+      },
+      {
+        "text": "her",
+        "start": 123.775,
+        "end": 123.79128804335133
+      },
+      {
+        "text": "in",
+        "start": 123.79128804335133,
+        "end": 123.80401630345924
+      },
+      {
+        "text": "'77,",
+        "start": 123.80401630345924,
+        "end": 123.81105292742077
+      },
+      {
+        "text": "not",
+        "start": 123.81105292742077,
+        "end": 123.81682750609242
+      },
+      {
+        "text": "'87.",
+        "start": 123.81682750609242,
+        "end": 123.82386413005396
+      },
+      {
+        "text": "She",
+        "start": 123.82386413005396,
+        "end": 123.84015217340529
+      },
+      {
+        "text": "came",
+        "start": 123.84015217340529,
+        "end": 123.98007608670264
+      },
+      {
+        "start": 123.98007608670264,
+        "end": 124.12,
+        "text": "here"
+      },
+      {
+        "start": 124.12,
+        "end": 124.62,
+        "text": "in"
+      },
+      {
+        "text": "'87.",
+        "start": 124.62,
+        "end": 124.91991
+      },
+      {
+        "start": 135.4,
+        "end": 135.9,
+        "text": "And"
+      },
+      {
+        "start": 136.32,
+        "end": 136.56,
+        "text": "your"
+      },
+      {
+        "start": 136.56,
+        "end": 137.06,
+        "text": "family"
+      },
+      {
+        "start": 137.78,
+        "end": 137.9,
+        "text": "is"
+      },
+      {
+        "start": 137.9,
+        "end": 138.14,
+        "text": "from"
+      },
+      {
+        "start": 138.14,
+        "end": 138.58,
+        "text": "Jamaica"
+      },
+      {
+        "start": 138.58,
+        "end": 138.82,
+        "text": "on"
+      },
+      {
+        "start": 138.82,
+        "end": 139.02,
+        "text": "both"
+      },
+      {
+        "start": 139.02,
+        "end": 139.34,
+        "text": "sides?"
+      },
+      {
+        "start": 139.34,
+        "end": 139.82,
+        "text": "Yep,"
+      },
+      {
+        "start": 139.82,
+        "end": 140.24,
+        "text": "Jamaica"
+      },
+      {
+        "start": 140.24,
+        "end": 140.34,
+        "text": "on"
+      },
+      {
+        "start": 140.34,
+        "end": 140.64,
+        "text": "both"
+      },
+      {
+        "start": 140.64,
+        "end": 141.14,
+        "text": "sides."
+      },
+      {
+        "start": 141.82,
+        "end": 142.32,
+        "text": "So"
+      },
+      {
+        "start": 142.88,
+        "end": 143,
+        "text": "my"
+      },
+      {
+        "start": 143,
+        "end": 143.22,
+        "text": "mom"
+      },
+      {
+        "start": 143.22,
+        "end": 143.4,
+        "text": "is"
+      },
+      {
+        "start": 143.4,
+        "end": 143.56,
+        "text": "from"
+      },
+      {
+        "start": 143.56,
+        "end": 144.06,
+        "text": "Kingston."
+      },
+      {
+        "start": 144.72,
+        "end": 144.94,
+        "text": "My"
+      },
+      {
+        "start": 144.94,
+        "end": 145.44,
+        "text": "dad's"
+      },
+      {
+        "start": 145.44,
+        "end": 145.66,
+        "text": "from"
+      },
+      {
+        "start": 145.66,
+        "end": 146.16,
+        "text": "Mandeville."
+      },
+      {
+        "start": 147.08,
+        "end": 147.38,
+        "text": "So"
+      },
+      {
+        "start": 147.38,
+        "end": 147.84,
+        "text": "completely"
+      },
+      {
+        "start": 147.84,
+        "end": 148.34,
+        "text": "different."
+      },
+      {
+        "start": 148.78,
+        "end": 149.28,
+        "text": "My"
+      },
+      {
+        "start": 149.28,
+        "end": 149.78,
+        "text": "mom"
+      },
+      {
+        "start": 150.14,
+        "end": 150.32,
+        "text": "grew"
+      },
+      {
+        "start": 150.32,
+        "end": 150.52,
+        "text": "up,"
+      },
+      {
+        "start": 150.52,
+        "end": 150.72,
+        "text": "born"
+      },
+      {
+        "start": 150.72,
+        "end": 150.84,
+        "text": "and"
+      },
+      {
+        "start": 150.84,
+        "end": 151.16,
+        "text": "raised"
+      },
+      {
+        "start": 151.16,
+        "end": 151.28,
+        "text": "in"
+      },
+      {
+        "start": 151.28,
+        "end": 151.42,
+        "text": "the"
+      },
+      {
+        "start": 151.42,
+        "end": 151.92,
+        "text": "city."
+      },
+      {
+        "start": 152.08,
+        "end": 152.3,
+        "text": "And"
+      },
+      {
+        "start": 152.3,
+        "end": 152.5,
+        "text": "my"
+      },
+      {
+        "start": 152.5,
+        "end": 153,
+        "text": "dad"
+      },
+      {
+        "start": 153.34,
+        "end": 153.56,
+        "text": "is"
+      },
+      {
+        "start": 153.56,
+        "end": 154.02,
+        "text": "like"
+      },
+      {
+        "start": 154.02,
+        "end": 154.52,
+        "text": "often"
+      },
+      {
+        "start": 154.82,
+        "end": 155.22,
+        "text": "what"
+      },
+      {
+        "start": 155.66,
+        "end": 155.86,
+        "text": "most"
+      },
+      {
+        "start": 155.86,
+        "end": 156.36,
+        "text": "Jamaicans"
+      },
+      {
+        "start": 156.36,
+        "end": 156.54,
+        "text": "would"
+      },
+      {
+        "start": 156.54,
+        "end": 156.9,
+        "text": "describe"
+      },
+      {
+        "start": 156.9,
+        "end": 157.12,
+        "text": "as"
+      },
+      {
+        "start": 157.12,
+        "end": 157.62,
+        "text": "country."
+      },
+      {
+        "text": "When",
+        "start": 157.62,
+        "end": 157.91991000000002
+      },
+      {
+        "start": 158.42,
+        "end": 158.6,
+        "text": "you're"
+      },
+      {
+        "start": 158.6,
+        "end": 159.1,
+        "text": "often"
+      },
+      {
+        "start": 159.16,
+        "end": 159.32,
+        "text": "in"
+      },
+      {
+        "start": 159.32,
+        "end": 159.4,
+        "text": "the"
+      },
+      {
+        "start": 159.4,
+        "end": 159.72,
+        "text": "woods"
+      },
+      {
+        "start": 159.72,
+        "end": 159.86,
+        "text": "where"
+      },
+      {
+        "start": 159.86,
+        "end": 160.12,
+        "text": "he's"
+      },
+      {
+        "start": 160.12,
+        "end": 160.38,
+        "text": "from"
+      },
+      {
+        "start": 160.38,
+        "end": 160.76,
+        "text": "that's"
+      },
+      {
+        "start": 160.76,
+        "end": 161,
+        "text": "just"
+      },
+      {
+        "start": 161,
+        "end": 161.5,
+        "text": "country."
+      },
+      {
+        "start": 162.44,
+        "end": 162.7,
+        "text": "That's"
+      },
+      {
+        "start": 162.7,
+        "end": 163.18,
+        "text": "another"
+      },
+      {
+        "start": 163.18,
+        "end": 163.68,
+        "text": "parish."
+      },
+      {
+        "start": 164.54,
+        "end": 165.04,
+        "text": "Yes."
+      },
+      {
+        "start": 165.18,
+        "end": 165.54,
+        "text": "I've"
+      },
+      {
+        "start": 165.54,
+        "end": 165.72,
+        "text": "heard"
+      },
+      {
+        "start": 165.72,
+        "end": 165.9,
+        "text": "of"
+      },
+      {
+        "start": 165.9,
+        "end": 166.4,
+        "text": "Mendoza."
+      },
+      {
+        "start": 167.22,
+        "end": 167.38,
+        "text": "I'm"
+      },
+      {
+        "start": 167.38,
+        "end": 167.56,
+        "text": "going"
+      },
+      {
+        "start": 167.56,
+        "end": 167.72,
+        "text": "to"
+      },
+      {
+        "start": 167.72,
+        "end": 168.12,
+        "text": "interrupt"
+      },
+      {
+        "start": 168.12,
+        "end": 168.28,
+        "text": "us"
+      },
+      {
+        "start": 168.28,
+        "end": 168.48,
+        "text": "for"
+      },
+      {
+        "start": 168.48,
+        "end": 168.58,
+        "text": "a"
+      },
+      {
+        "start": 168.58,
+        "end": 168.9,
+        "text": "second"
+      },
+      {
+        "start": 168.9,
+        "end": 169.16,
+        "text": "just"
+      },
+      {
+        "start": 169.16,
+        "end": 169.66,
+        "text": "for"
+      },
+      {
+        "start": 169.66,
+        "end": 169.9,
+        "text": "a"
+      },
+      {
+        "start": 169.9,
+        "end": 170.14,
+        "text": "sound"
+      },
+      {
+        "start": 170.14,
+        "end": 170.64,
+        "text": "check."
+      }
+    ],
+    "paragraphs": [
+      {
+        "speaker": "John Capadonna",
+        "start": 0.06,
+        "end": 27.16
+      },
+      {
+        "speaker": "Shamar Mahon",
+        "start": 27.380001,
+        "end": 27.619999
+      },
+      {
+        "speaker": "John Capadonna",
+        "start": 27.619999,
+        "end": 29.68
+      },
+      {
+        "speaker": "Shamar Mahon",
+        "start": 29.7,
+        "end": 44.2
+      },
+      {
+        "speaker": "John Capadonna",
+        "start": 44.44,
+        "end": 46.22
+      },
+      {
+        "speaker": "Shamar Mahon",
+        "start": 46.96,
+        "end": 50.84
+      },
+      {
+        "speaker": "Unknown Woman",
+        "start": 50.84,
+        "end": 53.83909999999999
+      },
+      {
+        "speaker": "John Capadonna",
+        "start": 54.8,
+        "end": 56.4
+      },
+      {
+        "speaker": "Unknown Woman",
+        "start": 56.4,
+        "end": 56.830010778303794
+      },
+      {
+        "speaker": "Shamar Mahon",
+        "start": 74.06,
+        "end": 96.7
+      },
+      {
+        "speaker": "John Capadonna",
+        "start": 97.06,
+        "end": 98.979996
+      },
+      {
+        "speaker": "Shamar Mahon",
+        "start": 99.06,
+        "end": 101.4
+      },
+      {
+        "speaker": "John Capadonna",
+        "start": 103.94,
+        "end": 122.52
+      },
+      {
+        "speaker": "Ruby Mahon",
+        "start": 123.28,
+        "end": 123.82386413005396
+      },
+      {
+        "speaker": "Ruby Mahon",
+        "start": 123.82386413005396,
+        "end": 139.34
+      },
+      {
+        "speaker": "Shamar Mahon",
+        "start": 139.34,
+        "end": 161.5
+      },
+      {
+        "speaker": "Unknown Woman",
+        "start": 162.44,
+        "end": 170.64
+      }
+    ],
+    "status": "completed",
+    "storyId": "65bb3e177fc0307418866f38",
+    "updated_at": "2024-02-10T16:08:19.632Z",
+    "__v": 0
+  },
+  "story": {
+    "_id": "65bb3e177fc0307418866f38",
+    "wav_status": "completed",
+    "twilio_composition_completed": false,
+    "is_upload": true,
+    "comments": [],
+    "author": {
+      "twofactorAuthenticationEnabled": false,
+      "forceTwofactorAuthentication": false,
+      "_id": "63c84ca42d981d0434dea83e",
+      "full_name": "Fiona Vernal",
+      "email": "fiona.vernal@uconn.edu",
+      "password": "",
+      "is_verified": false,
+      "role": "manager",
+      "stories": [],
+      "organization": "633329ffc1eff26474408be6",
+      "signed_up": "2023-01-18T19:46:44.477Z",
+      "__v": 0,
+      "featureFlags": {
+        "enableTwilioVideo": true,
+        "localRecordingMimeType": "video/webm;codecs=vp8,opus",
+        "disableAutomaticResolutionSwitching": false,
+        "autoChaptering": true,
+        "_id": "69d697aaf028cfe93f080ecc"
+      },
+      "passwordResetToken": null,
+      "passwordResetTokenExpiresAt": 1728405240213,
+      "create_gallery": true,
+      "aviary_token": "",
+      "aviary_client": ""
+    },
+    "record_date": "2024-02-01T06:45:43.726Z",
+    "registered_participants": [],
+    "registered_emails": [
+      null
+    ],
+    "notify_group": false,
+    "local_recording": false,
+    "concluded": true,
+    "featureFlags": {
+      "disableAutomaticResolutionSwitching": false,
+      "_id": "65bb3e177fc0307418866f36",
+      "autoChaptering": false
+    },
+    "has_recording_tracks": false,
+    "asyncOperations": [
+      {
+        "created_at": "2024-02-01T06:45:57.740Z",
+        "status": "completed",
+        "type": "transcribe",
+        "mode": "advanced",
+        "language_code": "",
+        "_id": "65bb3e257fc0307418866fc4",
+        "updated_at": "2024-02-01T06:52:01.262Z"
+      }
+    ],
+    "indexes": [
+      {
+        "created_at": "2026-04-08T18:04:55.397Z",
+        "updated_at": "2026-04-08T18:04:55.397Z",
+        "title": "AI Generated (2026-04-08 18:04:55)",
+        "metadata": [
+          {
+            "index": 0,
+            "timecode": "00:00:00",
+            "time": {
+              "start": 0,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 1,
+                "line": "# Introduction and Family Background",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 2,
+                "line": "> Interviewer John Capadonna introduces the subject of the interview, Shamar Mahon, and establishes the context of their conversation. Shamar begins by discussing his Jamaican family roots, with both parents originating from Jamaica and moving to the United States as teenagers.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 3,
+                "line": "** introduction, family background, Shamar Mahon, John Capadonna, Jamaica, parents, immigration **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** introduction, family background, Shamar Mahon, John Capadonna, Jamaica, parents, immigration **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 4,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 5,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Introduction and Family Background",
+            "synopsis": "Interviewer John Capadonna introduces the subject of the interview, Shamar Mahon, and establishes the context of their conversation. Shamar begins by discussing his Jamaican family roots, with both parents originating from Jamaica and moving to the United States as teenagers.",
+            "notes": "",
+            "keywords": "introduction, family background, Shamar Mahon, John Capadonna, Jamaica, parents, immigration"
+          },
+          {
+            "index": 6,
+            "timecode": "00:00:14",
+            "time": {
+              "start": 14,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 7,
+                "line": "# Parents' Immigration to the United States",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 8,
+                "line": "> Shamar details the ages at which his parents emigrated from Jamaica to America. His mother moved at age 14, attending Weaver High School, and his father arrived at around 16 or 17. Shamar's maternal grandmother, Ruby, is briefly mentioned.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 9,
+                "line": "** immigration, ages, parents, Jamaica, Weaver High School, Ruby, maternal grandmother **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** immigration, ages, parents, Jamaica, Weaver High School, Ruby, maternal grandmother **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 10,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 11,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Parents' Immigration to the United States",
+            "synopsis": "Shamar details the ages at which his parents emigrated from Jamaica to America. His mother moved at age 14, attending Weaver High School, and his father arrived at around 16 or 17. Shamar's maternal grandmother, Ruby, is briefly mentioned.",
+            "notes": "",
+            "keywords": "immigration, ages, parents, Jamaica, Weaver High School, Ruby, maternal grandmother"
+          },
+          {
+            "index": 12,
+            "timecode": "00:01:14",
+            "time": {
+              "start": 74,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 13,
+                "line": "# Confirmation of Family Details",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 14,
+                "line": "> The conversation clarifies the timeline and age of Shamar's mother upon arriving in the U.S., specifying the year 1977 for her arrival. There is a minor correction in the timeline discussion, correcting a previous mention of 1986 to the correct year.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 15,
+                "line": "** timeline, family details, immigration year, 1977, correction **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** timeline, family details, immigration year, 1977, correction **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 16,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 17,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Confirmation of Family Details",
+            "synopsis": "The conversation clarifies the timeline and age of Shamar's mother upon arriving in the U.S., specifying the year 1977 for her arrival. There is a minor correction in the timeline discussion, correcting a previous mention of 1986 to the correct year.",
+            "notes": "",
+            "keywords": "timeline, family details, immigration year, 1977, correction"
+          },
+          {
+            "index": 18,
+            "timecode": "00:02:03",
+            "time": {
+              "start": 123,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 19,
+                "line": "# Geographical Roots in Jamaica",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 20,
+                "line": "> Shamar explains his parents' specific places of origin in Jamaica. His mother is from Kingston, a city environment, while his father hails from Mandeville, described as more rural or 'country'.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 21,
+                "line": "** Kingston, Mandeville, Jamaica, rural, urban, geographical roots **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** Kingston, Mandeville, Jamaica, rural, urban, geographical roots **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 22,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 23,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Geographical Roots in Jamaica",
+            "synopsis": "Shamar explains his parents' specific places of origin in Jamaica. His mother is from Kingston, a city environment, while his father hails from Mandeville, described as more rural or 'country'.",
+            "notes": "",
+            "keywords": "Kingston, Mandeville, Jamaica, rural, urban, geographical roots"
+          },
+          {
+            "index": 24,
+            "timecode": "00:02:45",
+            "time": {
+              "start": 165,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 25,
+                "line": "# Sound Check Interruption",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 26,
+                "line": "> The interview is briefly interrupted for a sound check, indicating a minor pause in the conversation flow.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 27,
+                "line": "** interruption, sound check, pause **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** interruption, sound check, pause **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 28,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 29,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 30,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Sound Check Interruption",
+            "synopsis": "The interview is briefly interrupted for a sound check, indicating a minor pause in the conversation flow.",
+            "notes": "",
+            "keywords": "interruption, sound check, pause"
+          }
+        ],
+        "notes": [
+          {
+            "children": [
+              {
+                "text": "[00:00:00]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Introduction and Family Background"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Interviewer John Capadonna introduces the subject of the interview, Shamar Mahon, and establishes the context of their conversation. Shamar begins by discussing his Jamaican family roots, with both parents originating from Jamaica and moving to the United States as teenagers."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** introduction, family background, Shamar Mahon, John Capadonna, Jamaica, parents, immigration **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:00:14]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Parents' Immigration to the United States"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Shamar details the ages at which his parents emigrated from Jamaica to America. His mother moved at age 14, attending Weaver High School, and his father arrived at around 16 or 17. Shamar's maternal grandmother, Ruby, is briefly mentioned."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** immigration, ages, parents, Jamaica, Weaver High School, Ruby, maternal grandmother **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:01:14]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Confirmation of Family Details"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The conversation clarifies the timeline and age of Shamar's mother upon arriving in the U.S., specifying the year 1977 for her arrival. There is a minor correction in the timeline discussion, correcting a previous mention of 1986 to the correct year."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** timeline, family details, immigration year, 1977, correction **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:02:03]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Geographical Roots in Jamaica"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Shamar explains his parents' specific places of origin in Jamaica. His mother is from Kingston, a city environment, while his father hails from Mandeville, described as more rural or 'country'."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** Kingston, Mandeville, Jamaica, rural, urban, geographical roots **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:02:45]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Sound Check Interruption"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The interview is briefly interrupted for a sound check, indicating a minor pause in the conversation flow."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** interruption, sound check, pause **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "_id": "69d698c7f028cfe93f0824c1"
+      }
+    ],
+    "chat": [],
+    "created_at": "2024-02-01T06:45:43.799Z",
+    "updated_at": "2026-04-08T18:19:30.403Z",
+    "__v": 1,
+    "opentok_session_id": "1_MX40NTk3Njc0Mn4xMjcuMC4wLjF-MTcwNjc2OTk0Mzg5OH5sb1NTTGtKbVM4bVJpdVBqNmZMalNBcCt-fn4",
+    "custom_archive_media_type": "audio/wav",
+    "custom_archive_url": "uploads/9162b880-a398-446d-a6b1-9df3ec6046af/archive.wav",
+    "notes": "",
+    "title": "Shamar Mahon part 1-6292023.WAV",
+    "wav_url": "uploads/9162b880-a398-446d-a6b1-9df3ec6046af/archive.wav",
+    "deepgramOp": "6ec33c74-3589-4bc1-893e-251c755700f4",
+    "duration": 170.256,
+    "recording_size": 32721920,
+    "description": "The interview features Shamar Mahon discussing his Jamaican family heritage. Both of Shamar's parents emigrated from Jamaica to the United States as teenagers, with his mother arriving at around age 14 and his father at 16 or 17. They met in their 20s. Shamar's maternal grandmother, Ruby, assists with recalling family details. His mother hails from Kingston, Jamaica, a city environment, while his father is from Mandeville, often described as the country by Jamaicans. The recording briefly pauses for a sound check.",
+    "weaviate_operation": {
+      "chunk_count": 1,
+      "content_version": 1,
+      "model_used": "text-embedding-3-small",
+      "status": "completed",
+      "created_at": "2026-04-08T18:19:24.984Z",
+      "updated_at": "2026-04-08T18:19:24.984Z"
+    },
+    "assetId": "",
+    "call_processing_status": "pending",
+    "call_processing_step": "idle",
+    "meeting_ended_received": false,
+    "muxAssets": [
+      {
+        "type": "audio",
+        "status": "completed",
+        "url": "https://stream.mux.com/01qlrqydHDH1cCTkILkYaELEGQUPNphM14Omrj9CemFU/audio.m4a",
+        "playbackId": "01qlrqydHDH1cCTkILkYaELEGQUPNphM14Omrj9CemFU",
+        "assetId": "ops28nQHSFwSCCxuBCQ4mriO75RgdDk7snF26132WT00",
+        "_id": "69d69c2c36c7802b31d6d576"
+      }
+    ],
+    "published": false,
+    "shared_page": "",
+    "transcoded": ""
+  },
+  "videoURL": "https://stream.mux.com/01qlrqydHDH1cCTkILkYaELEGQUPNphM14Omrj9CemFU/audio.m4a",
+  "participants": [
+    {
+      "_id": "65bb3e397fc030741886702f",
+      "name": "Shamar Mahon and John Cappadona",
+      "user": "63c84ca42d981d0434dea83e",
+      "story": "65bb3e177fc0307418866f38",
+      "__v": 0
+    }
+  ],
+  "tags": [],
+  "mux_playback_id": "01qlrqydHDH1cCTkILkYaELEGQUPNphM14Omrj9CemFU"
+}

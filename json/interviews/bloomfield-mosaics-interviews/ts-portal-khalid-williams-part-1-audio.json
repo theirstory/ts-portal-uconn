@@ -1,0 +1,934 @@
+{
+  "transcript": {
+    "_id": "65ea8d75524e6a0797fb7cac",
+    "created_at": "2024-03-08T04:00:53.843Z",
+    "words": [
+      {
+        "text": "Khalid",
+        "start": 6,
+        "end": 6.3999996
+      },
+      {
+        "start": 6.3999996,
+        "end": 6.64,
+        "text": "tell"
+      },
+      {
+        "start": 6.64,
+        "end": 6.7999997,
+        "text": "me"
+      },
+      {
+        "start": 6.7999997,
+        "end": 7.255,
+        "text": "where"
+      },
+      {
+        "start": 7.735,
+        "end": 8.055,
+        "text": "where"
+      },
+      {
+        "start": 8.055,
+        "end": 8.215,
+        "text": "we"
+      },
+      {
+        "start": 8.215,
+        "end": 8.615,
+        "text": "are"
+      },
+      {
+        "start": 8.615,
+        "end": 9.115,
+        "text": "now,"
+      },
+      {
+        "start": 9.495,
+        "end": 9.735001,
+        "text": "in"
+      },
+      {
+        "start": 9.735001,
+        "end": 10.055,
+        "text": "your"
+      },
+      {
+        "start": 10.055,
+        "end": 10.375,
+        "text": "life,"
+      },
+      {
+        "start": 10.375,
+        "end": 10.875,
+        "text": "about,"
+      },
+      {
+        "start": 11.255,
+        "end": 11.575,
+        "text": "what"
+      },
+      {
+        "start": 11.575,
+        "end": 12.075,
+        "text": "age"
+      },
+      {
+        "start": 12.375,
+        "end": 12.615,
+        "text": "were"
+      },
+      {
+        "start": 12.615,
+        "end": 12.855,
+        "text": "you"
+      },
+      {
+        "start": 12.855,
+        "end": 13.355,
+        "text": "when,"
+      },
+      {
+        "start": 14.615,
+        "end": 15.115,
+        "text": "well,"
+      },
+      {
+        "start": 16.8,
+        "end": 16.96,
+        "text": "one"
+      },
+      {
+        "start": 16.96,
+        "end": 17.28,
+        "text": "thing"
+      },
+      {
+        "start": 17.6,
+        "end": 17.76,
+        "text": "I'm"
+      },
+      {
+        "start": 17.76,
+        "end": 18.26,
+        "text": "interested"
+      },
+      {
+        "start": 18.32,
+        "end": 18.56,
+        "text": "in"
+      },
+      {
+        "start": 18.56,
+        "end": 18.88,
+        "text": "is"
+      },
+      {
+        "start": 20,
+        "end": 20.24,
+        "text": "the"
+      },
+      {
+        "start": 20.24,
+        "end": 20.74,
+        "text": "GED"
+      },
+      {
+        "start": 20.8,
+        "end": 21.3,
+        "text": "business."
+      },
+      {
+        "start": 21.439999,
+        "end": 21.68,
+        "text": "Yeah."
+      },
+      {
+        "start": 21.68,
+        "end": 21.84,
+        "text": "It"
+      },
+      {
+        "start": 21.84,
+        "end": 22.16,
+        "text": "sounded"
+      },
+      {
+        "start": 22.16,
+        "end": 22.32,
+        "text": "like"
+      },
+      {
+        "start": 22.32,
+        "end": 22.48,
+        "text": "you"
+      },
+      {
+        "start": 22.48,
+        "end": 22.64,
+        "text": "were"
+      },
+      {
+        "start": 22.64,
+        "end": 22.8,
+        "text": "on"
+      },
+      {
+        "start": 22.8,
+        "end": 22.88,
+        "text": "a"
+      },
+      {
+        "start": 22.88,
+        "end": 23.325,
+        "text": "very"
+      },
+      {
+        "start": 23.725,
+        "end": 24.225,
+        "text": "typical"
+      },
+      {
+        "start": 24.285,
+        "end": 24.785,
+        "text": "trajectory,"
+      },
+      {
+        "start": 25.165,
+        "end": 25.405,
+        "text": "but"
+      },
+      {
+        "start": 25.405,
+        "end": 25.805,
+        "text": "then"
+      },
+      {
+        "start": 25.805,
+        "end": 26.045,
+        "text": "you"
+      },
+      {
+        "start": 26.045,
+        "end": 26.445,
+        "text": "didn't,"
+      },
+      {
+        "start": 26.845001,
+        "end": 27.345001,
+        "text": "graduate,"
+      },
+      {
+        "start": 30.045,
+        "end": 30.205,
+        "text": "in"
+      },
+      {
+        "start": 30.205,
+        "end": 30.365002,
+        "text": "the"
+      },
+      {
+        "start": 30.365002,
+        "end": 30.765001,
+        "text": "normal"
+      },
+      {
+        "start": 30.765001,
+        "end": 31.005001,
+        "text": "way."
+      },
+      {
+        "start": 31.005001,
+        "end": 31.48,
+        "text": "Correct."
+      },
+      {
+        "start": 32.12,
+        "end": 32.28,
+        "text": "I"
+      },
+      {
+        "start": 32.28,
+        "end": 32.52,
+        "text": "would"
+      },
+      {
+        "start": 32.52,
+        "end": 32.92,
+        "text": "say"
+      },
+      {
+        "start": 32.92,
+        "end": 33.42,
+        "text": "seventh"
+      },
+      {
+        "start": 33.48,
+        "end": 33.98,
+        "text": "grade."
+      },
+      {
+        "start": 34.2,
+        "end": 34.7,
+        "text": "I"
+      },
+      {
+        "start": 35,
+        "end": 35.239998,
+        "text": "kind"
+      },
+      {
+        "start": 35.239998,
+        "end": 35.559998,
+        "text": "of"
+      },
+      {
+        "start": 35.559998,
+        "end": 36.059998,
+        "text": "started"
+      },
+      {
+        "start": 36.12,
+        "end": 36.52,
+        "text": "getting"
+      },
+      {
+        "start": 36.52,
+        "end": 36.92,
+        "text": "lost"
+      },
+      {
+        "start": 36.92,
+        "end": 37.16,
+        "text": "in"
+      },
+      {
+        "start": 37.16,
+        "end": 37.32,
+        "text": "the"
+      },
+      {
+        "start": 37.32,
+        "end": 37.82,
+        "text": "shuffle."
+      },
+      {
+        "start": 38.28,
+        "end": 38.36,
+        "text": "I"
+      },
+      {
+        "text": "was",
+        "start": 38.36,
+        "end": 38.60612
+      },
+      {
+        "text": "a",
+        "start": 38.60612,
+        "end": 38.744659999999996
+      },
+      {
+        "start": 39.935,
+        "end": 40.255,
+        "text": "very"
+      },
+      {
+        "start": 40.255,
+        "end": 40.735,
+        "text": "overweight"
+      },
+      {
+        "start": 40.735,
+        "end": 41.235,
+        "text": "kid."
+      },
+      {
+        "start": 43.215,
+        "end": 43.715,
+        "text": "And"
+      },
+      {
+        "start": 44.255,
+        "end": 44.755,
+        "text": "also"
+      },
+      {
+        "start": 45.375,
+        "end": 45.775,
+        "text": "a"
+      },
+      {
+        "start": 45.775,
+        "end": 46.275,
+        "text": "very"
+      },
+      {
+        "start": 47.050003,
+        "end": 47.550003,
+        "text": "smart"
+      },
+      {
+        "start": 47.77,
+        "end": 48.27,
+        "text": "kid."
+      },
+      {
+        "start": 48.57,
+        "end": 48.890003,
+        "text": "Also"
+      },
+      {
+        "start": 48.890003,
+        "end": 48.97,
+        "text": "a"
+      },
+      {
+        "start": 48.97,
+        "end": 49.210003,
+        "text": "bit"
+      },
+      {
+        "start": 49.210003,
+        "end": 49.370003,
+        "text": "of"
+      },
+      {
+        "start": 49.370003,
+        "end": 49.61,
+        "text": "a"
+      },
+      {
+        "start": 49.61,
+        "end": 50.11,
+        "text": "smart"
+      },
+      {
+        "start": 50.41,
+        "end": 50.730003,
+        "text": "ass"
+      },
+      {
+        "start": 50.730003,
+        "end": 51.050003,
+        "text": "kid."
+      },
+      {
+        "start": 51.050003,
+        "end": 51.550003,
+        "text": "Excuse"
+      },
+      {
+        "start": 51.61,
+        "end": 51.93,
+        "text": "the"
+      },
+      {
+        "start": 51.93,
+        "end": 52.43,
+        "text": "expression."
+      },
+      {
+        "start": 52.97,
+        "end": 53.47,
+        "text": "Right."
+      },
+      {
+        "start": 53.850002,
+        "end": 54.09,
+        "text": "My"
+      },
+      {
+        "start": 54.09,
+        "end": 54.41,
+        "text": "world"
+      },
+      {
+        "start": 54.41,
+        "end": 54.65,
+        "text": "was"
+      },
+      {
+        "start": 54.65,
+        "end": 54.89,
+        "text": "as"
+      },
+      {
+        "start": 54.89,
+        "end": 55.21,
+        "text": "small"
+      },
+      {
+        "start": 55.21,
+        "end": 55.45,
+        "text": "as"
+      },
+      {
+        "start": 55.45,
+        "end": 55.61,
+        "text": "my"
+      },
+      {
+        "start": 55.61,
+        "end": 56.11,
+        "text": "classroom"
+      },
+      {
+        "start": 56.33,
+        "end": 56.635,
+        "text": "in"
+      },
+      {
+        "start": 56.635,
+        "end": 56.954998,
+        "text": "sixth"
+      },
+      {
+        "start": 56.954998,
+        "end": 57.195,
+        "text": "grade"
+      },
+      {
+        "start": 57.195,
+        "end": 57.434998,
+        "text": "on"
+      },
+      {
+        "start": 57.434998,
+        "end": 57.754997,
+        "text": "back,"
+      },
+      {
+        "start": 57.754997,
+        "end": 58.074997,
+        "text": "and"
+      },
+      {
+        "start": 58.074997,
+        "end": 58.234997,
+        "text": "I"
+      },
+      {
+        "start": 58.234997,
+        "end": 58.475,
+        "text": "was"
+      },
+      {
+        "start": 58.475,
+        "end": 58.714996,
+        "text": "able"
+      },
+      {
+        "start": 58.714996,
+        "end": 58.954998,
+        "text": "to"
+      },
+      {
+        "start": 58.954998,
+        "end": 59.274998,
+        "text": "rule"
+      },
+      {
+        "start": 59.274998,
+        "end": 59.434998,
+        "text": "that"
+      },
+      {
+        "start": 59.434998,
+        "end": 59.754997,
+        "text": "little"
+      },
+      {
+        "start": 59.754997,
+        "end": 59.914997,
+        "text": "kind"
+      },
+      {
+        "start": 59.914997,
+        "end": 60.074997,
+        "text": "of"
+      },
+      {
+        "start": 60.074997,
+        "end": 60.394997,
+        "text": "mini"
+      },
+      {
+        "start": 60.394997,
+        "end": 60.894997,
+        "text": "ecosystem."
+      }
+    ],
+    "paragraphs": [
+      {
+        "speaker": "John Capadonna",
+        "start": 6,
+        "end": 31.005001
+      },
+      {
+        "speaker": "Khalid Williams",
+        "start": 31.005001,
+        "end": 52.43
+      },
+      {
+        "speaker": "John Capadonna",
+        "start": 52.97,
+        "end": 53.47
+      },
+      {
+        "speaker": "Khalid Williams",
+        "start": 53.850002,
+        "end": 60.894997
+      }
+    ],
+    "status": "completed",
+    "storyId": "65ea8d6767bcf48f87730f21",
+    "updated_at": "2024-06-05T17:27:28.742Z",
+    "__v": 0
+  },
+  "story": {
+    "_id": "65ea8d6767bcf48f87730f21",
+    "wav_status": "completed",
+    "twilio_composition_completed": false,
+    "is_upload": true,
+    "comments": [],
+    "author": {
+      "twofactorAuthenticationEnabled": false,
+      "forceTwofactorAuthentication": false,
+      "_id": "63c84ca42d981d0434dea83e",
+      "full_name": "Fiona Vernal",
+      "email": "fiona.vernal@uconn.edu",
+      "password": "",
+      "is_verified": false,
+      "role": "manager",
+      "stories": [],
+      "organization": "633329ffc1eff26474408be6",
+      "signed_up": "2023-01-18T19:46:44.477Z",
+      "__v": 0,
+      "featureFlags": {
+        "enableTwilioVideo": true,
+        "localRecordingMimeType": "video/webm;codecs=vp8,opus",
+        "disableAutomaticResolutionSwitching": false,
+        "autoChaptering": true,
+        "_id": "69d697aaf028cfe93f080ecc"
+      },
+      "passwordResetToken": null,
+      "passwordResetTokenExpiresAt": 1728405240213,
+      "create_gallery": true,
+      "aviary_token": "",
+      "aviary_client": ""
+    },
+    "record_date": "2024-03-08T04:00:39.684Z",
+    "registered_participants": [],
+    "registered_emails": [
+      null
+    ],
+    "notify_group": false,
+    "local_recording": false,
+    "concluded": true,
+    "featureFlags": {
+      "disableAutomaticResolutionSwitching": false,
+      "_id": "65ea8d6767bcf48f87730f1f",
+      "autoChaptering": false
+    },
+    "has_recording_tracks": false,
+    "asyncOperations": [
+      {
+        "created_at": "2024-03-08T04:00:49.661Z",
+        "status": "completed",
+        "type": "transcribe",
+        "mode": "advanced",
+        "language_code": "",
+        "_id": "65ea8d7167bcf48f87730f56",
+        "updated_at": "2024-03-08T04:00:53.979Z"
+      }
+    ],
+    "indexes": [
+      {
+        "created_at": "2026-04-08T18:03:55.438Z",
+        "updated_at": "2026-04-08T18:03:55.438Z",
+        "title": "AI Generated (2026-04-08 18:03:55)",
+        "metadata": [
+          {
+            "index": 0,
+            "timecode": "00:00:06",
+            "time": {
+              "start": 6,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 1,
+                "line": "# Introduction to Khalid's Journey",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 2,
+                "line": "> The interview begins with Khalid reflecting on his current place in life. The interviewer inquires about a pivotal moment involving obtaining a GED instead of a traditional diploma. Khalid shares his initial challenges during adolescence, describing his experiences in seventh grade as a turning point where he began to feel lost.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 3,
+                "line": "** Khalid, life journey, GED, adolescence, challenges **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** Khalid, life journey, GED, adolescence, challenges **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 4,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 5,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Introduction to Khalid's Journey",
+            "synopsis": "The interview begins with Khalid reflecting on his current place in life. The interviewer inquires about a pivotal moment involving obtaining a GED instead of a traditional diploma. Khalid shares his initial challenges during adolescence, describing his experiences in seventh grade as a turning point where he began to feel lost.",
+            "notes": "",
+            "keywords": "Khalid, life journey, GED, adolescence, challenges"
+          },
+          {
+            "index": 6,
+            "timecode": "00:00:34",
+            "time": {
+              "start": 34,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 7,
+                "line": "# Early School Years",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 8,
+                "line": "> Khalid discusses his early school years, highlighting how he perceived himself as an overweight child who was also academically capable. He humorously mentions being a 'smart ass,' feeling confined yet influential within the small community of his classroom during primary school.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 9,
+                "line": "** early school years, overweight, smart kid, classroom community, primary school **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** early school years, overweight, smart kid, classroom community, primary school **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 10,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 11,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 12,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Early School Years",
+            "synopsis": "Khalid discusses his early school years, highlighting how he perceived himself as an overweight child who was also academically capable. He humorously mentions being a 'smart ass,' feeling confined yet influential within the small community of his classroom during primary school.",
+            "notes": "",
+            "keywords": "early school years, overweight, smart kid, classroom community, primary school"
+          }
+        ],
+        "notes": [
+          {
+            "children": [
+              {
+                "text": "[00:00:06]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Introduction to Khalid's Journey"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The interview begins with Khalid reflecting on his current place in life. The interviewer inquires about a pivotal moment involving obtaining a GED instead of a traditional diploma. Khalid shares his initial challenges during adolescence, describing his experiences in seventh grade as a turning point where he began to feel lost."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** Khalid, life journey, GED, adolescence, challenges **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:00:34]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Early School Years"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Khalid discusses his early school years, highlighting how he perceived himself as an overweight child who was also academically capable. He humorously mentions being a 'smart ass,' feeling confined yet influential within the small community of his classroom during primary school."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** early school years, overweight, smart kid, classroom community, primary school **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "_id": "69d6988b36c7802b31d6aeae"
+      }
+    ],
+    "chat": [],
+    "created_at": "2024-03-08T04:00:39.753Z",
+    "updated_at": "2026-04-08T18:19:24.980Z",
+    "__v": 1,
+    "opentok_session_id": "1_MX40NTk3Njc0Mn4xMjcuMC4wLjF-MTcwOTg3MDQzOTgzNX5FWFNjdE5waGZUN2NSOUJEK1QxMml0RVZ-fn4",
+    "custom_archive_media_type": "audio/wav",
+    "custom_archive_url": "uploads/faf295fc-2b98-4522-9da7-e782f86efb97/archive.wav",
+    "notes": "",
+    "title": "Khalid Williams part 1",
+    "wav_url": "uploads/faf295fc-2b98-4522-9da7-e782f86efb97/archive.wav",
+    "deepgramOp": "14ee9e6a-a510-4ddd-b221-0bfbbe9401f5",
+    "duration": 61.53288,
+    "recording_size": 10887168,
+    "description": "The interview delves into Khalid's educational journey, particularly focusing on his experiences leading to obtaining a GED. He describes his deviation from a typical academic trajectory starting in seventh grade, highlighting challenges such as being overweight and having a strong personality. He reflects on the transition from a controlled classroom environment to a broader setting where he struggled to maintain the same level of influence and assurance. This narrative could be relevant for researchers studying educational pathways, self-perception in early schooling, or non-traditional educational achievements.",
+    "weaviate_operation": {
+      "chunk_count": 1,
+      "content_version": 1,
+      "model_used": "text-embedding-3-small",
+      "status": "completed",
+      "created_at": "2026-04-08T18:19:20.547Z",
+      "updated_at": "2026-04-08T18:19:20.547Z"
+    },
+    "assetId": "",
+    "call_processing_status": "pending",
+    "call_processing_step": "idle",
+    "meeting_ended_received": false,
+    "muxAssets": [
+      {
+        "type": "audio",
+        "status": "completed",
+        "url": "https://stream.mux.com/cfpR5FbNwmgFyCkhJmIUQvavdv6dV7jHifqU8q01KIyE/audio.m4a",
+        "playbackId": "cfpR5FbNwmgFyCkhJmIUQvavdv6dV7jHifqU8q01KIyE",
+        "assetId": "JsNcS01OwF188spbXxbq7Ik8paogFC014fASrhQ02zOUJw",
+        "_id": "69d69c28f028cfe93f0849f7"
+      }
+    ],
+    "published": false,
+    "shared_page": "",
+    "transcoded": ""
+  },
+  "videoURL": "https://stream.mux.com/cfpR5FbNwmgFyCkhJmIUQvavdv6dV7jHifqU8q01KIyE/audio.m4a",
+  "participants": [],
+  "tags": [],
+  "mux_playback_id": "cfpR5FbNwmgFyCkhJmIUQvavdv6dV7jHifqU8q01KIyE"
+}

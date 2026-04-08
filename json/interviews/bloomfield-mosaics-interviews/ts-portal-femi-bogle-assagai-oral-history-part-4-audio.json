@@ -1,0 +1,5042 @@
+{
+  "transcript": {
+    "_id": "64a841fdc8ac8055637c3d93",
+    "created_at": "2023-07-07T16:49:01.555Z",
+    "words": [
+      {
+        "text": "[Start",
+        "start": 0.29999998,
+        "end": 0.70748998
+      },
+      {
+        "text": "at",
+        "start": 0.70748998,
+        "end": 0.89981998
+      },
+      {
+        "text": "00:00:19]",
+        "start": 0.89981998,
+        "end": 1.46867998
+      },
+      {
+        "start": 19.06,
+        "end": 19.56,
+        "text": "Okay."
+      },
+      {
+        "start": 21.81,
+        "end": 22.31,
+        "text": "Okay."
+      },
+      {
+        "start": 24.56,
+        "end": 25.06,
+        "text": "So,"
+      },
+      {
+        "start": 26.880001,
+        "end": 27.04,
+        "text": "I"
+      },
+      {
+        "start": 27.04,
+        "end": 27.18,
+        "text": "was"
+      },
+      {
+        "start": 27.18,
+        "end": 27.5,
+        "text": "talking"
+      },
+      {
+        "start": 27.5,
+        "end": 27.66,
+        "text": "about"
+      },
+      {
+        "start": 27.66,
+        "end": 27.939999,
+        "text": "Barbara"
+      },
+      {
+        "text": "Kennelly",
+        "start": 27.939999,
+        "end": 28.259998
+      },
+      {
+        "start": 28.259998,
+        "end": 28.380001,
+        "text": "I"
+      },
+      {
+        "start": 28.380001,
+        "end": 28.58,
+        "text": "think"
+      },
+      {
+        "start": 28.58,
+        "end": 28.779999,
+        "text": "I'd"
+      },
+      {
+        "start": 28.779999,
+        "end": 29.14,
+        "text": "finished"
+      },
+      {
+        "start": 29.14,
+        "end": 29.34,
+        "text": "that"
+      },
+      {
+        "start": 29.34,
+        "end": 29.68,
+        "text": "thought,"
+      },
+      {
+        "start": 29.68,
+        "end": 30.18,
+        "text": "right?"
+      },
+      {
+        "start": 30.82,
+        "end": 31.32,
+        "text": "Yeah."
+      },
+      {
+        "start": 32.04,
+        "end": 32.54,
+        "text": "So,"
+      },
+      {
+        "start": 32.9,
+        "end": 33.08,
+        "text": "where"
+      },
+      {
+        "start": 33.08,
+        "end": 33.34,
+        "text": "was"
+      },
+      {
+        "start": 33.34,
+        "end": 33.84,
+        "text": "I?"
+      },
+      {
+        "start": 35.34,
+        "end": 35.58,
+        "text": "You"
+      },
+      {
+        "start": 35.58,
+        "end": 35.739998,
+        "text": "were"
+      },
+      {
+        "start": 35.739998,
+        "end": 36.1,
+        "text": "talking"
+      },
+      {
+        "start": 36.1,
+        "end": 36.3,
+        "text": "about"
+      },
+      {
+        "start": 36.3,
+        "end": 36.5,
+        "text": "some"
+      },
+      {
+        "start": 36.5,
+        "end": 36.66,
+        "text": "of"
+      },
+      {
+        "start": 36.66,
+        "end": 37.16,
+        "text": "the"
+      },
+      {
+        "start": 37.34,
+        "end": 37.6,
+        "text": "other"
+      },
+      {
+        "start": 37.6,
+        "end": 38.1,
+        "text": "interesting"
+      },
+      {
+        "start": 38.14,
+        "end": 38.559998,
+        "text": "things"
+      },
+      {
+        "start": 38.559998,
+        "end": 38.8,
+        "text": "that"
+      },
+      {
+        "start": 38.8,
+        "end": 39.059998,
+        "text": "you've"
+      },
+      {
+        "start": 39.059998,
+        "end": 39.559998,
+        "text": "done"
+      },
+      {
+        "start": 39.62,
+        "end": 40.02,
+        "text": "as"
+      },
+      {
+        "start": 40.02,
+        "end": 40.239998,
+        "text": "an"
+      },
+      {
+        "start": 40.239998,
+        "end": 40.739998,
+        "text": "individual."
+      },
+      {
+        "text": "Oh,",
+        "start": 42.12,
+        "end": 42.366119999999995
+      },
+      {
+        "start": 43.26,
+        "end": 43.58,
+        "text": "right."
+      },
+      {
+        "start": 43.58,
+        "end": 43.94,
+        "text": "Well,"
+      },
+      {
+        "start": 43.94,
+        "end": 44.059998,
+        "text": "you"
+      },
+      {
+        "start": 44.059998,
+        "end": 44.28,
+        "text": "know,"
+      },
+      {
+        "start": 44.28,
+        "end": 44.5,
+        "text": "when"
+      },
+      {
+        "start": 44.5,
+        "end": 44.739998,
+        "text": "we"
+      },
+      {
+        "start": 44.739998,
+        "end": 45.04,
+        "text": "got"
+      },
+      {
+        "start": 45.04,
+        "end": 45.2,
+        "text": "here,"
+      },
+      {
+        "start": 45.2,
+        "end": 45.36,
+        "text": "you"
+      },
+      {
+        "start": 45.36,
+        "end": 45.52,
+        "text": "would"
+      },
+      {
+        "start": 45.52,
+        "end": 45.76,
+        "text": "ask"
+      },
+      {
+        "start": 45.76,
+        "end": 45.92,
+        "text": "me"
+      },
+      {
+        "start": 45.92,
+        "end": 46.24,
+        "text": "about"
+      },
+      {
+        "start": 46.24,
+        "end": 46.64,
+        "text": "finding"
+      },
+      {
+        "start": 46.64,
+        "end": 47.14,
+        "text": "work."
+      },
+      {
+        "start": 47.36,
+        "end": 47.56,
+        "text": "One"
+      },
+      {
+        "start": 47.56,
+        "end": 47.68,
+        "text": "of"
+      },
+      {
+        "start": 47.68,
+        "end": 47.76,
+        "text": "the"
+      },
+      {
+        "start": 47.76,
+        "end": 48.08,
+        "text": "things"
+      },
+      {
+        "start": 48.08,
+        "end": 48.28,
+        "text": "I"
+      },
+      {
+        "start": 48.28,
+        "end": 48.78,
+        "text": "did"
+      },
+      {
+        "start": 50.34,
+        "end": 50.84,
+        "text": "was"
+      },
+      {
+        "start": 51.04,
+        "end": 51.54,
+        "text": "to"
+      },
+      {
+        "start": 52.08,
+        "end": 52.58,
+        "text": "interview"
+      },
+      {
+        "start": 53.68,
+        "end": 54.059998,
+        "text": "to"
+      },
+      {
+        "start": 54.059998,
+        "end": 54.52,
+        "text": "work"
+      },
+      {
+        "start": 54.52,
+        "end": 55.02,
+        "text": "at"
+      },
+      {
+        "start": 55.239998,
+        "end": 55.52,
+        "text": "the"
+      },
+      {
+        "start": 55.52,
+        "end": 56.02,
+        "text": "department,"
+      },
+      {
+        "start": 56.26,
+        "end": 56.48,
+        "text": "the"
+      },
+      {
+        "start": 56.48,
+        "end": 56.72,
+        "text": "State"
+      },
+      {
+        "start": 56.72,
+        "end": 57.1,
+        "text": "Department"
+      },
+      {
+        "start": 57.1,
+        "end": 57.26,
+        "text": "of"
+      },
+      {
+        "start": 57.26,
+        "end": 57.76,
+        "text": "Education"
+      },
+      {
+        "start": 57.84,
+        "end": 58.1,
+        "text": "as"
+      },
+      {
+        "start": 58.1,
+        "end": 58.32,
+        "text": "the"
+      },
+      {
+        "start": 58.32,
+        "end": 58.82,
+        "text": "administrator"
+      },
+      {
+        "start": 59.22,
+        "end": 59.54,
+        "text": "for"
+      },
+      {
+        "start": 59.54,
+        "end": 59.82,
+        "text": "the"
+      },
+      {
+        "start": 59.82,
+        "end": 60.12,
+        "text": "Apple"
+      },
+      {
+        "start": 60.12,
+        "end": 60.62,
+        "text": "program."
+      },
+      {
+        "start": 60.94,
+        "end": 61.26,
+        "text": "That's"
+      },
+      {
+        "start": 61.26,
+        "end": 61.4,
+        "text": "the"
+      },
+      {
+        "start": 61.4,
+        "end": 61.72,
+        "text": "Teacher"
+      },
+      {
+        "start": 61.72,
+        "end": 61.82,
+        "text": "of"
+      },
+      {
+        "start": 61.82,
+        "end": 61.92,
+        "text": "the"
+      },
+      {
+        "start": 61.92,
+        "end": 62.2,
+        "text": "Year"
+      },
+      {
+        "start": 62.2,
+        "end": 62.7,
+        "text": "program"
+      },
+      {
+        "start": 63.34,
+        "end": 63.66,
+        "text": "because"
+      },
+      {
+        "start": 63.66,
+        "end": 63.84,
+        "text": "I"
+      },
+      {
+        "start": 63.84,
+        "end": 64.08,
+        "text": "didn't"
+      },
+      {
+        "start": 64.08,
+        "end": 64.28,
+        "text": "need"
+      },
+      {
+        "start": 64.28,
+        "end": 64.78,
+        "text": "certification"
+      },
+      {
+        "start": 64.96,
+        "end": 65.2,
+        "text": "for"
+      },
+      {
+        "start": 65.2,
+        "end": 65.7,
+        "text": "that"
+      },
+      {
+        "start": 66.04,
+        "end": 66.26,
+        "text": "and"
+      },
+      {
+        "start": 66.26,
+        "end": 66.48,
+        "text": "because"
+      },
+      {
+        "start": 66.48,
+        "end": 66.72,
+        "text": "I'd"
+      },
+      {
+        "start": 66.72,
+        "end": 67,
+        "text": "applied"
+      },
+      {
+        "start": 67,
+        "end": 67.12,
+        "text": "for"
+      },
+      {
+        "start": 67.12,
+        "end": 67.28,
+        "text": "all"
+      },
+      {
+        "start": 67.28,
+        "end": 67.44,
+        "text": "of"
+      },
+      {
+        "start": 67.44,
+        "end": 67.58,
+        "text": "my"
+      },
+      {
+        "start": 67.58,
+        "end": 68.08,
+        "text": "certifications"
+      },
+      {
+        "start": 68.76,
+        "end": 69.26,
+        "text": "to"
+      },
+      {
+        "start": 69.28,
+        "end": 69.479996,
+        "text": "go"
+      },
+      {
+        "start": 69.479996,
+        "end": 69.68,
+        "text": "back"
+      },
+      {
+        "start": 69.68,
+        "end": 69.92,
+        "text": "into"
+      },
+      {
+        "start": 69.92,
+        "end": 70.12,
+        "text": "the"
+      },
+      {
+        "start": 70.12,
+        "end": 70.62,
+        "text": "classroom."
+      },
+      {
+        "start": 72.1,
+        "end": 72.34,
+        "text": "So"
+      },
+      {
+        "start": 72.34,
+        "end": 72.52,
+        "text": "I"
+      },
+      {
+        "start": 72.52,
+        "end": 72.76,
+        "text": "said,"
+      },
+      {
+        "start": 72.76,
+        "end": 72.979996,
+        "text": "well,"
+      },
+      {
+        "start": 72.979996,
+        "end": 73.14,
+        "text": "let"
+      },
+      {
+        "start": 73.14,
+        "end": 73.3,
+        "text": "me"
+      },
+      {
+        "start": 73.3,
+        "end": 73.74,
+        "text": "apply"
+      },
+      {
+        "start": 73.74,
+        "end": 74.04,
+        "text": "for"
+      },
+      {
+        "start": 74.04,
+        "end": 74.54,
+        "text": "this"
+      },
+      {
+        "start": 75.48,
+        "end": 75.66,
+        "text": "administrative"
+      },
+      {
+        "start": 75.66,
+        "end": 76.16,
+        "text": "position"
+      },
+      {
+        "start": 76.22,
+        "end": 76.48,
+        "text": "because"
+      },
+      {
+        "start": 76.48,
+        "end": 76.98,
+        "text": "I've"
+      },
+      {
+        "start": 77.3,
+        "end": 77.56,
+        "text": "been"
+      },
+      {
+        "start": 77.56,
+        "end": 77.78,
+        "text": "an"
+      },
+      {
+        "start": 77.78,
+        "end": 78.26,
+        "text": "administrator,"
+      },
+      {
+        "start": 78.26,
+        "end": 78.54,
+        "text": "I've"
+      },
+      {
+        "start": 78.54,
+        "end": 79.04,
+        "text": "left"
+      },
+      {
+        "start": 79.2,
+        "end": 79.38,
+        "text": "an"
+      },
+      {
+        "start": 79.38,
+        "end": 79.88,
+        "text": "administrative"
+      },
+      {
+        "start": 79.92,
+        "end": 80.28,
+        "text": "position"
+      },
+      {
+        "start": 80.28,
+        "end": 80.46,
+        "text": "in"
+      },
+      {
+        "start": 80.46,
+        "end": 80.96,
+        "text": "England."
+      },
+      {
+        "start": 82.36,
+        "end": 82.54,
+        "text": "And"
+      },
+      {
+        "start": 82.54,
+        "end": 82.8,
+        "text": "it"
+      },
+      {
+        "start": 82.8,
+        "end": 83.24,
+        "text": "turns"
+      },
+      {
+        "start": 83.24,
+        "end": 83.74,
+        "text": "out"
+      },
+      {
+        "start": 83.76,
+        "end": 84.26,
+        "text": "that"
+      },
+      {
+        "start": 84.32,
+        "end": 84.56,
+        "text": "I"
+      },
+      {
+        "start": 84.56,
+        "end": 84.8,
+        "text": "was"
+      },
+      {
+        "start": 84.8,
+        "end": 85.16,
+        "text": "offered"
+      },
+      {
+        "start": 85.16,
+        "end": 85.44,
+        "text": "the"
+      },
+      {
+        "start": 85.44,
+        "end": 85.94,
+        "text": "job."
+      },
+      {
+        "start": 86.28,
+        "end": 86.5,
+        "text": "There"
+      },
+      {
+        "start": 86.5,
+        "end": 86.72,
+        "text": "were"
+      },
+      {
+        "start": 86.72,
+        "end": 87.04,
+        "text": "12"
+      },
+      {
+        "start": 87.04,
+        "end": 87.54,
+        "text": "applicants"
+      },
+      {
+        "start": 88.26,
+        "end": 88.58,
+        "text": "and"
+      },
+      {
+        "start": 88.58,
+        "end": 88.7,
+        "text": "I"
+      },
+      {
+        "start": 88.7,
+        "end": 88.86,
+        "text": "think"
+      },
+      {
+        "start": 88.86,
+        "end": 88.94,
+        "text": "there"
+      },
+      {
+        "start": 88.94,
+        "end": 89.06,
+        "text": "were"
+      },
+      {
+        "start": 89.06,
+        "end": 89.32,
+        "text": "like"
+      },
+      {
+        "start": 89.32,
+        "end": 89.72,
+        "text": "16"
+      },
+      {
+        "start": 89.72,
+        "end": 90.06,
+        "text": "people"
+      },
+      {
+        "start": 90.06,
+        "end": 90.42,
+        "text": "interviewing"
+      },
+      {
+        "start": 90.42,
+        "end": 90.64,
+        "text": "all"
+      },
+      {
+        "start": 90.64,
+        "end": 90.76,
+        "text": "of"
+      },
+      {
+        "start": 90.76,
+        "end": 91.26,
+        "text": "us."
+      },
+      {
+        "start": 91.64,
+        "end": 91.86,
+        "text": "And"
+      },
+      {
+        "start": 91.86,
+        "end": 92.36,
+        "text": "apparently"
+      },
+      {
+        "start": 92.44,
+        "end": 92.6,
+        "text": "the"
+      },
+      {
+        "start": 92.6,
+        "end": 92.86,
+        "text": "job"
+      },
+      {
+        "start": 92.86,
+        "end": 93.04,
+        "text": "was"
+      },
+      {
+        "start": 93.04,
+        "end": 93.54,
+        "text": "earmarked"
+      },
+      {
+        "start": 93.64,
+        "end": 93.84,
+        "text": "for"
+      },
+      {
+        "start": 93.84,
+        "end": 94.04,
+        "text": "some"
+      },
+      {
+        "start": 94.04,
+        "end": 94.28,
+        "text": "other"
+      },
+      {
+        "start": 94.28,
+        "end": 94.78,
+        "text": "person."
+      },
+      {
+        "start": 94.84,
+        "end": 95.02,
+        "text": "I"
+      },
+      {
+        "start": 95.02,
+        "end": 95.28,
+        "text": "don't"
+      },
+      {
+        "start": 95.28,
+        "end": 95.38,
+        "text": "know"
+      },
+      {
+        "start": 95.38,
+        "end": 95.58,
+        "text": "any"
+      },
+      {
+        "start": 95.58,
+        "end": 95.68,
+        "text": "of"
+      },
+      {
+        "start": 95.68,
+        "end": 95.92,
+        "text": "this."
+      },
+      {
+        "start": 95.92,
+        "end": 96.06,
+        "text": "I"
+      },
+      {
+        "start": 96.06,
+        "end": 96.3,
+        "text": "am"
+      },
+      {
+        "start": 96.3,
+        "end": 96.5,
+        "text": "not"
+      },
+      {
+        "start": 96.5,
+        "end": 96.6,
+        "text": "part"
+      },
+      {
+        "start": 96.6,
+        "end": 96.76,
+        "text": "of"
+      },
+      {
+        "start": 96.76,
+        "end": 96.96,
+        "text": "the"
+      },
+      {
+        "start": 96.96,
+        "end": 97.36,
+        "text": "politics."
+      },
+      {
+        "start": 97.36,
+        "end": 97.58,
+        "text": "I've"
+      },
+      {
+        "start": 97.58,
+        "end": 97.8,
+        "text": "just"
+      },
+      {
+        "start": 97.8,
+        "end": 98.12,
+        "text": "landed"
+      },
+      {
+        "start": 98.12,
+        "end": 98.3,
+        "text": "in"
+      },
+      {
+        "start": 98.3,
+        "end": 98.44,
+        "text": "the"
+      },
+      {
+        "start": 98.44,
+        "end": 98.8,
+        "text": "country,"
+      },
+      {
+        "start": 98.8,
+        "end": 98.94,
+        "text": "but"
+      },
+      {
+        "start": 98.94,
+        "end": 99.16,
+        "text": "I"
+      },
+      {
+        "start": 99.16,
+        "end": 99.36,
+        "text": "get"
+      },
+      {
+        "start": 99.36,
+        "end": 99.6,
+        "text": "there,"
+      },
+      {
+        "start": 99.6,
+        "end": 99.84,
+        "text": "I'm"
+      },
+      {
+        "start": 99.84,
+        "end": 100.02,
+        "text": "the"
+      },
+      {
+        "start": 100.02,
+        "end": 100.26,
+        "text": "only"
+      },
+      {
+        "start": 100.26,
+        "end": 100.6,
+        "text": "black"
+      },
+      {
+        "start": 100.6,
+        "end": 101.1,
+        "text": "person."
+      },
+      {
+        "start": 101.32,
+        "end": 101.54,
+        "text": "I"
+      },
+      {
+        "start": 101.54,
+        "end": 101.76,
+        "text": "get"
+      },
+      {
+        "start": 101.76,
+        "end": 102.1,
+        "text": "offered"
+      },
+      {
+        "start": 102.1,
+        "end": 102.34,
+        "text": "the"
+      },
+      {
+        "start": 102.34,
+        "end": 102.84,
+        "text": "job."
+      },
+      {
+        "start": 103.32,
+        "end": 103.58,
+        "text": "Well,"
+      },
+      {
+        "start": 103.58,
+        "end": 103.78,
+        "text": "that"
+      },
+      {
+        "start": 103.78,
+        "end": 104.28,
+        "text": "apparently"
+      },
+      {
+        "start": 104.44,
+        "end": 104.86,
+        "text": "turned"
+      },
+      {
+        "start": 104.86,
+        "end": 105.06,
+        "text": "the"
+      },
+      {
+        "start": 105.06,
+        "end": 105.32,
+        "text": "State"
+      },
+      {
+        "start": 105.32,
+        "end": 105.8,
+        "text": "Department"
+      },
+      {
+        "start": 105.8,
+        "end": 105.94,
+        "text": "of"
+      },
+      {
+        "start": 105.94,
+        "end": 106.44,
+        "text": "Education"
+      },
+      {
+        "start": 106.48,
+        "end": 106.92,
+        "text": "upside"
+      },
+      {
+        "text": "down:",
+        "start": 106.92,
+        "end": 107.11
+      },
+      {
+        "text": "'well,",
+        "start": 107.11,
+        "end": 107.3
+      },
+      {
+        "start": 107.3,
+        "end": 107.54,
+        "text": "you're"
+      },
+      {
+        "start": 107.54,
+        "end": 107.72,
+        "text": "coming"
+      },
+      {
+        "start": 107.72,
+        "end": 107.9,
+        "text": "back"
+      },
+      {
+        "start": 107.9,
+        "end": 108.04,
+        "text": "with"
+      },
+      {
+        "start": 108.04,
+        "end": 108.22,
+        "text": "the"
+      },
+      {
+        "start": 108.22,
+        "end": 108.44,
+        "text": "wrong"
+      },
+      {
+        "start": 108.44,
+        "end": 108.9,
+        "text": "candidate."
+      },
+      {
+        "start": 108.9,
+        "end": 109.04,
+        "text": "You"
+      },
+      {
+        "start": 109.04,
+        "end": 109.22,
+        "text": "should"
+      },
+      {
+        "start": 109.22,
+        "end": 109.4,
+        "text": "not"
+      },
+      {
+        "start": 109.4,
+        "end": 109.9,
+        "text": "be"
+      },
+      {
+        "start": 109.96,
+        "end": 110.46,
+        "text": "offering"
+      },
+      {
+        "start": 110.46,
+        "end": 110.66,
+        "text": "us"
+      },
+      {
+        "start": 110.66,
+        "end": 110.86,
+        "text": "this"
+      },
+      {
+        "start": 110.86,
+        "end": 111.14,
+        "text": "black"
+      },
+      {
+        "start": 111.14,
+        "end": 111.64,
+        "text": "woman"
+      },
+      {
+        "start": 111.66,
+        "end": 111.96,
+        "text": "from"
+      },
+      {
+        "start": 111.96,
+        "end": 112.46,
+        "text": "England."
+      },
+      {
+        "start": 113.04,
+        "end": 113.3,
+        "text": "This"
+      },
+      {
+        "start": 113.3,
+        "end": 113.54,
+        "text": "job"
+      },
+      {
+        "start": 113.54,
+        "end": 113.96,
+        "text": "belongs"
+      },
+      {
+        "start": 113.96,
+        "end": 114.14,
+        "text": "to"
+      },
+      {
+        "start": 114.14,
+        "end": 114.4,
+        "text": "this"
+      },
+      {
+        "text": "person.'",
+        "start": 114.4,
+        "end": 114.91507
+      },
+      {
+        "start": 115.12,
+        "end": 115.32,
+        "text": "This"
+      },
+      {
+        "start": 115.32,
+        "end": 115.52,
+        "text": "is"
+      },
+      {
+        "start": 115.52,
+        "end": 116.02,
+        "text": "what"
+      },
+      {
+        "start": 116.32,
+        "end": 116.52,
+        "text": "I"
+      },
+      {
+        "start": 116.52,
+        "end": 116.72,
+        "text": "got"
+      },
+      {
+        "start": 116.72,
+        "end": 116.88,
+        "text": "to"
+      },
+      {
+        "start": 116.88,
+        "end": 117.34,
+        "text": "understand"
+      },
+      {
+        "start": 117.34,
+        "end": 117.62,
+        "text": "after"
+      },
+      {
+        "start": 117.62,
+        "end": 117.74,
+        "text": "the"
+      },
+      {
+        "start": 117.74,
+        "end": 117.94,
+        "text": "whole"
+      },
+      {
+        "start": 117.94,
+        "end": 118.18,
+        "text": "thing"
+      },
+      {
+        "start": 118.18,
+        "end": 118.38,
+        "text": "just"
+      },
+      {
+        "start": 118.38,
+        "end": 118.58,
+        "text": "went"
+      },
+      {
+        "start": 118.58,
+        "end": 118.94,
+        "text": "belly"
+      },
+      {
+        "start": 118.94,
+        "end": 119.44,
+        "text": "up."
+      },
+      {
+        "start": 120.86,
+        "end": 121.36,
+        "text": "Anyhow,"
+      },
+      {
+        "start": 121.38,
+        "end": 121.88,
+        "text": "I"
+      },
+      {
+        "start": 122.02,
+        "end": 122.46,
+        "text": "struggled"
+      },
+      {
+        "start": 122.46,
+        "end": 122.96,
+        "text": "along"
+      },
+      {
+        "start": 122.98,
+        "end": 123.2,
+        "text": "to"
+      },
+      {
+        "start": 123.2,
+        "end": 123.42,
+        "text": "make"
+      },
+      {
+        "start": 123.42,
+        "end": 123.64,
+        "text": "sure"
+      },
+      {
+        "start": 123.64,
+        "end": 123.82,
+        "text": "that"
+      },
+      {
+        "start": 123.82,
+        "end": 123.96,
+        "text": "I"
+      },
+      {
+        "start": 123.96,
+        "end": 124.24,
+        "text": "got"
+      },
+      {
+        "start": 124.24,
+        "end": 124.4,
+        "text": "the"
+      },
+      {
+        "start": 124.4,
+        "end": 124.64,
+        "text": "job"
+      },
+      {
+        "start": 124.64,
+        "end": 124.78,
+        "text": "and"
+      },
+      {
+        "start": 124.78,
+        "end": 124.96,
+        "text": "got"
+      },
+      {
+        "start": 124.96,
+        "end": 125.46,
+        "text": "employed,"
+      },
+      {
+        "start": 125.5,
+        "end": 125.74,
+        "text": "and"
+      },
+      {
+        "start": 125.74,
+        "end": 126.18,
+        "text": "they"
+      },
+      {
+        "start": 126.18,
+        "end": 126.48,
+        "text": "ended"
+      },
+      {
+        "start": 126.48,
+        "end": 126.78,
+        "text": "up"
+      },
+      {
+        "start": 126.78,
+        "end": 127.16,
+        "text": "offering"
+      },
+      {
+        "start": 127.16,
+        "end": 127.3,
+        "text": "me"
+      },
+      {
+        "start": 127.3,
+        "end": 127.46,
+        "text": "like"
+      },
+      {
+        "text": "$20,000",
+        "start": 127.46,
+        "end": 127.92128
+      },
+      {
+        "start": 128.6,
+        "end": 129,
+        "text": "less"
+      },
+      {
+        "start": 129,
+        "end": 129.2,
+        "text": "to"
+      },
+      {
+        "start": 129.2,
+        "end": 129.44,
+        "text": "do"
+      },
+      {
+        "start": 129.44,
+        "end": 129.66,
+        "text": "the"
+      },
+      {
+        "start": 129.66,
+        "end": 130.16,
+        "text": "position,"
+      },
+      {
+        "start": 130.84,
+        "end": 131.04,
+        "text": "but"
+      },
+      {
+        "start": 131.04,
+        "end": 131.18,
+        "text": "they"
+      },
+      {
+        "start": 131.18,
+        "end": 131.38,
+        "text": "were"
+      },
+      {
+        "start": 131.38,
+        "end": 131.88,
+        "text": "forced"
+      },
+      {
+        "start": 132.34,
+        "end": 132.84,
+        "text": "to"
+      },
+      {
+        "start": 132.9,
+        "end": 133.36,
+        "text": "say,"
+      },
+      {
+        "start": 133.36,
+        "end": 133.7,
+        "text": "hire"
+      },
+      {
+        "start": 133.7,
+        "end": 134.2,
+        "text": "me."
+      },
+      {
+        "text": "Yes.",
+        "start": 134.44,
+        "end": 134.69
+      },
+      {
+        "start": 134.69,
+        "end": 134.94,
+        "text": "They"
+      },
+      {
+        "start": 135.28,
+        "end": 135.66,
+        "text": "bumped"
+      },
+      {
+        "start": 135.66,
+        "end": 135.86,
+        "text": "the"
+      },
+      {
+        "start": 135.86,
+        "end": 136.22,
+        "text": "salary"
+      },
+      {
+        "start": 136.22,
+        "end": 136.46,
+        "text": "down"
+      },
+      {
+        "text": "$20,000.",
+        "start": 136.46,
+        "end": 136.97507000000002
+      },
+      {
+        "start": 137.16,
+        "end": 137.32,
+        "text": "So"
+      },
+      {
+        "start": 137.32,
+        "end": 137.54,
+        "text": "I'm"
+      },
+      {
+        "start": 137.54,
+        "end": 137.78,
+        "text": "like,"
+      },
+      {
+        "start": 137.78,
+        "end": 137.96,
+        "text": "are"
+      },
+      {
+        "start": 137.96,
+        "end": 138.08,
+        "text": "they"
+      },
+      {
+        "start": 138.08,
+        "end": 138.58,
+        "text": "crazy?"
+      },
+      {
+        "start": 138.58,
+        "end": 138.74,
+        "text": "Have"
+      },
+      {
+        "start": 138.74,
+        "end": 138.84,
+        "text": "they"
+      },
+      {
+        "start": 138.84,
+        "end": 139.08,
+        "text": "lost"
+      },
+      {
+        "start": 139.08,
+        "end": 139.34,
+        "text": "their"
+      },
+      {
+        "start": 139.34,
+        "end": 139.54999,
+        "text": "minds?"
+      },
+      {
+        "start": 139.54999,
+        "end": 139.76,
+        "text": "Of"
+      },
+      {
+        "start": 139.76,
+        "end": 139.9,
+        "text": "course"
+      },
+      {
+        "start": 139.9,
+        "end": 140.06,
+        "text": "I'm"
+      },
+      {
+        "start": 140.06,
+        "end": 140.2,
+        "text": "not"
+      },
+      {
+        "start": 140.2,
+        "end": 140.38,
+        "text": "gonna"
+      },
+      {
+        "start": 140.38,
+        "end": 140.58,
+        "text": "take"
+      },
+      {
+        "start": 140.58,
+        "end": 140.86,
+        "text": "it"
+      },
+      {
+        "start": 140.86,
+        "end": 141.04,
+        "text": "like"
+      },
+      {
+        "start": 141.04,
+        "end": 141.54,
+        "text": "that."
+      },
+      {
+        "start": 141.96,
+        "end": 142.46,
+        "text": "So"
+      },
+      {
+        "start": 142.8,
+        "end": 143.26,
+        "text": "anyhow,"
+      },
+      {
+        "start": 143.26,
+        "end": 143.56,
+        "text": "that"
+      },
+      {
+        "start": 143.56,
+        "end": 143.98,
+        "text": "caused"
+      },
+      {
+        "start": 143.98,
+        "end": 144.14,
+        "text": "a"
+      },
+      {
+        "start": 144.14,
+        "end": 144.64,
+        "text": "holy"
+      },
+      {
+        "start": 144.66,
+        "end": 145.16,
+        "text": "pandemonium,"
+      },
+      {
+        "start": 145.84,
+        "end": 146.12,
+        "text": "which"
+      },
+      {
+        "start": 146.12,
+        "end": 146.58,
+        "text": "resulted"
+      },
+      {
+        "start": 146.58,
+        "end": 146.98,
+        "text": "again"
+      },
+      {
+        "start": 146.98,
+        "end": 147.14,
+        "text": "in"
+      },
+      {
+        "start": 147.14,
+        "end": 147.34,
+        "text": "my"
+      },
+      {
+        "start": 147.34,
+        "end": 147.84,
+        "text": "husband"
+      },
+      {
+        "start": 148.48,
+        "end": 148.98,
+        "text": "entering"
+      },
+      {
+        "start": 148.98,
+        "end": 149.2,
+        "text": "that"
+      },
+      {
+        "start": 149.2,
+        "end": 149.7,
+        "text": "equation"
+      },
+      {
+        "start": 149.82,
+        "end": 150.24,
+        "text": "because"
+      },
+      {
+        "start": 150.24,
+        "end": 150.74,
+        "text": "he"
+      },
+      {
+        "start": 150.78,
+        "end": 151.08,
+        "text": "comes"
+      },
+      {
+        "start": 151.08,
+        "end": 151.22,
+        "text": "to"
+      },
+      {
+        "start": 151.22,
+        "end": 151.42,
+        "text": "see"
+      },
+      {
+        "start": 151.42,
+        "end": 151.56,
+        "text": "the"
+      },
+      {
+        "start": 151.56,
+        "end": 151.96,
+        "text": "Commissioner"
+      },
+      {
+        "start": 151.96,
+        "end": 152.12,
+        "text": "and"
+      },
+      {
+        "start": 152.12,
+        "end": 152.3,
+        "text": "says"
+      },
+      {
+        "start": 152.3,
+        "end": 152.64,
+        "text": "what's"
+      },
+      {
+        "start": 152.64,
+        "end": 152.86,
+        "text": "the"
+      },
+      {
+        "start": 152.86,
+        "end": 153.36,
+        "text": "issue?"
+      },
+      {
+        "start": 154.66,
+        "end": 154.92,
+        "text": "Why"
+      },
+      {
+        "start": 154.92,
+        "end": 155.14,
+        "text": "are"
+      },
+      {
+        "start": 155.14,
+        "end": 155.28,
+        "text": "you"
+      },
+      {
+        "start": 155.28,
+        "end": 155.5,
+        "text": "all"
+      },
+      {
+        "start": 155.5,
+        "end": 155.86,
+        "text": "behaving"
+      },
+      {
+        "start": 155.86,
+        "end": 156.04,
+        "text": "in"
+      },
+      {
+        "start": 156.04,
+        "end": 156.18,
+        "text": "this"
+      },
+      {
+        "start": 156.18,
+        "end": 156.34,
+        "text": "way?"
+      },
+      {
+        "start": 156.34,
+        "end": 156.48,
+        "text": "My"
+      },
+      {
+        "start": 156.48,
+        "end": 156.72,
+        "text": "wife"
+      },
+      {
+        "start": 156.72,
+        "end": 156.88,
+        "text": "is"
+      },
+      {
+        "start": 156.88,
+        "end": 157.38,
+        "text": "qualified."
+      },
+      {
+        "start": 157.96,
+        "end": 158.14,
+        "text": "Why"
+      },
+      {
+        "start": 158.14,
+        "end": 158.24,
+        "text": "is"
+      },
+      {
+        "start": 158.24,
+        "end": 158.44,
+        "text": "she"
+      },
+      {
+        "start": 158.44,
+        "end": 158.6,
+        "text": "not"
+      },
+      {
+        "start": 158.6,
+        "end": 158.86,
+        "text": "getting"
+      },
+      {
+        "start": 158.86,
+        "end": 159,
+        "text": "the"
+      },
+      {
+        "start": 159,
+        "end": 159.24,
+        "text": "job?"
+      },
+      {
+        "start": 159.24,
+        "end": 159.52,
+        "text": "Okay"
+      },
+      {
+        "start": 159.52,
+        "end": 159.66,
+        "text": "so"
+      },
+      {
+        "start": 159.66,
+        "end": 159.86,
+        "text": "we're"
+      },
+      {
+        "start": 159.86,
+        "end": 160.08,
+        "text": "going"
+      },
+      {
+        "start": 160.08,
+        "end": 160.12,
+        "text": "to"
+      },
+      {
+        "start": 160.12,
+        "end": 160.38,
+        "text": "sue"
+      },
+      {
+        "start": 160.38,
+        "end": 160.52,
+        "text": "the"
+      },
+      {
+        "start": 160.52,
+        "end": 160.68,
+        "text": "State"
+      },
+      {
+        "start": 160.68,
+        "end": 161.1,
+        "text": "Department"
+      },
+      {
+        "start": 161.1,
+        "end": 161.2,
+        "text": "of"
+      },
+      {
+        "start": 161.2,
+        "end": 161.58,
+        "text": "Education."
+      },
+      {
+        "start": 161.58,
+        "end": 161.76,
+        "text": "We"
+      },
+      {
+        "start": 161.76,
+        "end": 161.98,
+        "text": "just"
+      },
+      {
+        "start": 161.98,
+        "end": 162.18,
+        "text": "got"
+      },
+      {
+        "start": 162.18,
+        "end": 162.68,
+        "text": "here!"
+      },
+      {
+        "text": "[Laughter]",
+        "start": 162.68,
+        "end": 163.30265
+      },
+      {
+        "start": 169.44,
+        "end": 169.78,
+        "text": "Oh"
+      },
+      {
+        "start": 169.78,
+        "end": 170.08,
+        "text": "my"
+      },
+      {
+        "start": 170.08,
+        "end": 170.58,
+        "text": "god,"
+      },
+      {
+        "start": 170.6,
+        "end": 171.02,
+        "text": "that"
+      },
+      {
+        "start": 171.02,
+        "end": 171.36,
+        "text": "turned"
+      },
+      {
+        "start": 171.36,
+        "end": 171.86,
+        "text": "out,"
+      },
+      {
+        "start": 171.9,
+        "end": 172.08,
+        "text": "I"
+      },
+      {
+        "start": 172.08,
+        "end": 172.3,
+        "text": "think"
+      },
+      {
+        "start": 172.3,
+        "end": 172.8,
+        "text": "Taurasi"
+      },
+      {
+        "start": 172.86,
+        "end": 173,
+        "text": "was"
+      },
+      {
+        "start": 173,
+        "end": 173.14,
+        "text": "the"
+      },
+      {
+        "start": 173.14,
+        "end": 173.54,
+        "text": "commissioner"
+      },
+      {
+        "start": 173.54,
+        "end": 173.68,
+        "text": "at"
+      },
+      {
+        "start": 173.68,
+        "end": 173.86,
+        "text": "the"
+      },
+      {
+        "start": 173.86,
+        "end": 174.14,
+        "text": "time,"
+      },
+      {
+        "start": 174.14,
+        "end": 174.32,
+        "text": "that"
+      },
+      {
+        "start": 174.32,
+        "end": 174.6,
+        "text": "turned"
+      },
+      {
+        "start": 174.6,
+        "end": 174.78,
+        "text": "out"
+      },
+      {
+        "start": 174.78,
+        "end": 174.84,
+        "text": "to"
+      },
+      {
+        "start": 174.84,
+        "end": 175.02,
+        "text": "be"
+      },
+      {
+        "start": 175.02,
+        "end": 175.2,
+        "text": "a"
+      },
+      {
+        "start": 175.2,
+        "end": 175.52,
+        "text": "big"
+      },
+      {
+        "start": 175.52,
+        "end": 175.8,
+        "text": "huge"
+      },
+      {
+        "start": 175.8,
+        "end": 176.3,
+        "text": "thing."
+      },
+      {
+        "start": 176.46,
+        "end": 176.64,
+        "text": "And"
+      },
+      {
+        "start": 176.64,
+        "end": 176.76,
+        "text": "I"
+      },
+      {
+        "start": 176.76,
+        "end": 177.26,
+        "text": "think"
+      },
+      {
+        "start": 177.56,
+        "end": 177.84,
+        "text": "Cynthia"
+      },
+      {
+        "start": 177.84,
+        "end": 178.18,
+        "text": "Jennings"
+      },
+      {
+        "start": 178.18,
+        "end": 178.44,
+        "text": "was"
+      },
+      {
+        "start": 178.44,
+        "end": 178.86,
+        "text": "the"
+      },
+      {
+        "start": 178.86,
+        "end": 179.34,
+        "text": "affirmative"
+      },
+      {
+        "start": 179.34,
+        "end": 179.64,
+        "text": "action"
+      },
+      {
+        "start": 179.64,
+        "end": 179.98,
+        "text": "officer"
+      },
+      {
+        "start": 179.98,
+        "end": 180.14,
+        "text": "at"
+      },
+      {
+        "start": 180.14,
+        "end": 180.28,
+        "text": "the"
+      },
+      {
+        "start": 180.28,
+        "end": 180.52,
+        "text": "time,"
+      },
+      {
+        "text": "that's",
+        "start": 180.52,
+        "end": 180.76
+      },
+      {
+        "start": 180.76,
+        "end": 180.96,
+        "text": "how"
+      },
+      {
+        "start": 180.96,
+        "end": 181.16,
+        "text": "she"
+      },
+      {
+        "start": 181.16,
+        "end": 181.32,
+        "text": "and"
+      },
+      {
+        "start": 181.32,
+        "end": 181.48,
+        "text": "I"
+      },
+      {
+        "start": 181.48,
+        "end": 181.98,
+        "text": "met."
+      },
+      {
+        "text": "[Laughter]",
+        "start": 181.98,
+        "end": 182.60264999999998
+      },
+      {
+        "start": 185.2,
+        "end": 185.68,
+        "text": "That"
+      },
+      {
+        "start": 185.68,
+        "end": 186.18,
+        "text": "turned"
+      },
+      {
+        "start": 186.18,
+        "end": 186.68,
+        "text": "out"
+      },
+      {
+        "start": 186.74,
+        "end": 187,
+        "text": "to"
+      },
+      {
+        "start": 187,
+        "end": 187.5,
+        "text": "be"
+      },
+      {
+        "start": 187.78,
+        "end": 188.28,
+        "text": "one"
+      },
+      {
+        "start": 188.4,
+        "end": 188.9,
+        "text": "holy"
+      },
+      {
+        "start": 188.96,
+        "end": 189.46,
+        "text": "mess."
+      },
+      {
+        "start": 189.96,
+        "end": 190.2,
+        "text": "And"
+      },
+      {
+        "start": 190.2,
+        "end": 190.62,
+        "text": "so"
+      },
+      {
+        "start": 190.62,
+        "end": 190.8,
+        "text": "I"
+      },
+      {
+        "start": 190.8,
+        "end": 191.04,
+        "text": "said,"
+      },
+      {
+        "start": 191.04,
+        "end": 191.54,
+        "text": "no,"
+      },
+      {
+        "start": 191.82,
+        "end": 191.98,
+        "text": "I"
+      },
+      {
+        "start": 191.98,
+        "end": 192.36,
+        "text": "cannot"
+      },
+      {
+        "start": 192.36,
+        "end": 192.62,
+        "text": "go"
+      },
+      {
+        "start": 192.62,
+        "end": 192.88,
+        "text": "into"
+      },
+      {
+        "start": 192.88,
+        "end": 193.38,
+        "text": "that."
+      },
+      {
+        "start": 193.58,
+        "end": 193.82,
+        "text": "By"
+      },
+      {
+        "start": 193.82,
+        "end": 193.98,
+        "text": "the"
+      },
+      {
+        "start": 193.98,
+        "end": 194.44,
+        "text": "time"
+      },
+      {
+        "start": 194.44,
+        "end": 194.64,
+        "text": "it"
+      },
+      {
+        "start": 194.64,
+        "end": 194.9,
+        "text": "was"
+      },
+      {
+        "start": 194.9,
+        "end": 195.24,
+        "text": "over,"
+      },
+      {
+        "start": 195.24,
+        "end": 195.48,
+        "text": "I"
+      },
+      {
+        "start": 195.48,
+        "end": 195.76,
+        "text": "just"
+      },
+      {
+        "start": 195.76,
+        "end": 196,
+        "text": "was"
+      },
+      {
+        "start": 196,
+        "end": 196.2,
+        "text": "like,"
+      },
+      {
+        "start": 196.2,
+        "end": 196.4,
+        "text": "no,"
+      },
+      {
+        "start": 196.4,
+        "end": 196.56,
+        "text": "I"
+      },
+      {
+        "start": 196.56,
+        "end": 196.76,
+        "text": "need"
+      },
+      {
+        "start": 196.76,
+        "end": 196.96,
+        "text": "to"
+      },
+      {
+        "start": 196.96,
+        "end": 197.28,
+        "text": "step"
+      },
+      {
+        "start": 197.28,
+        "end": 197.64,
+        "text": "left"
+      },
+      {
+        "start": 197.64,
+        "end": 198.14,
+        "text": "and"
+      },
+      {
+        "start": 198.28,
+        "end": 198.48,
+        "text": "go"
+      },
+      {
+        "start": 198.48,
+        "end": 198.68,
+        "text": "do"
+      },
+      {
+        "start": 198.68,
+        "end": 199.12,
+        "text": "something"
+      },
+      {
+        "start": 199.12,
+        "end": 199.32,
+        "text": "else."
+      },
+      {
+        "start": 199.32,
+        "end": 199.54,
+        "text": "I"
+      },
+      {
+        "start": 199.54,
+        "end": 199.84,
+        "text": "can't"
+      },
+      {
+        "start": 199.84,
+        "end": 200,
+        "text": "take"
+      },
+      {
+        "start": 200,
+        "end": 200.2,
+        "text": "that"
+      },
+      {
+        "start": 200.2,
+        "end": 200.7,
+        "text": "on."
+      },
+      {
+        "start": 201.2,
+        "end": 201.7,
+        "text": "But"
+      },
+      {
+        "start": 202.46,
+        "end": 202.7,
+        "text": "they"
+      },
+      {
+        "start": 202.7,
+        "end": 202.94,
+        "text": "did"
+      },
+      {
+        "start": 202.94,
+        "end": 203.2,
+        "text": "find"
+      },
+      {
+        "start": 203.2,
+        "end": 203.4,
+        "text": "in"
+      },
+      {
+        "start": 203.4,
+        "end": 203.6,
+        "text": "my"
+      },
+      {
+        "start": 203.6,
+        "end": 203.8,
+        "text": "favor"
+      },
+      {
+        "start": 203.8,
+        "end": 204.22,
+        "text": "that"
+      },
+      {
+        "start": 204.22,
+        "end": 204.68,
+        "text": "I"
+      },
+      {
+        "start": 204.68,
+        "end": 204.86,
+        "text": "should"
+      },
+      {
+        "start": 204.86,
+        "end": 205.04,
+        "text": "have"
+      },
+      {
+        "start": 205.04,
+        "end": 205.16,
+        "text": "been"
+      },
+      {
+        "start": 205.16,
+        "end": 205.38,
+        "text": "given"
+      },
+      {
+        "start": 205.38,
+        "end": 205.56,
+        "text": "the"
+      },
+      {
+        "start": 205.56,
+        "end": 205.76,
+        "text": "job"
+      },
+      {
+        "start": 205.76,
+        "end": 205.92,
+        "text": "and"
+      },
+      {
+        "start": 205.92,
+        "end": 206.12,
+        "text": "it"
+      },
+      {
+        "start": 206.12,
+        "end": 206.32,
+        "text": "should"
+      },
+      {
+        "start": 206.32,
+        "end": 206.48,
+        "text": "have"
+      },
+      {
+        "start": 206.48,
+        "end": 206.66,
+        "text": "been"
+      },
+      {
+        "start": 206.66,
+        "end": 206.88,
+        "text": "the"
+      },
+      {
+        "start": 206.88,
+        "end": 207.24,
+        "text": "salary"
+      },
+      {
+        "start": 207.24,
+        "end": 207.34,
+        "text": "and"
+      },
+      {
+        "start": 207.34,
+        "end": 207.44,
+        "text": "so"
+      },
+      {
+        "start": 207.44,
+        "end": 207.66,
+        "text": "on"
+      },
+      {
+        "start": 207.66,
+        "end": 207.74,
+        "text": "and"
+      },
+      {
+        "start": 207.74,
+        "end": 207.94,
+        "text": "so"
+      },
+      {
+        "start": 207.94,
+        "end": 208.44,
+        "text": "forth"
+      },
+      {
+        "start": 208.46,
+        "end": 208.74,
+        "text": "after"
+      },
+      {
+        "start": 208.74,
+        "end": 208.9,
+        "text": "I"
+      },
+      {
+        "start": 208.9,
+        "end": 209.22,
+        "text": "appealed"
+      },
+      {
+        "start": 209.22,
+        "end": 209.38,
+        "text": "and"
+      },
+      {
+        "start": 209.38,
+        "end": 209.5,
+        "text": "the"
+      },
+      {
+        "start": 209.5,
+        "end": 209.72,
+        "text": "whole"
+      },
+      {
+        "start": 209.72,
+        "end": 210.22,
+        "text": "thing."
+      },
+      {
+        "start": 210.78,
+        "end": 210.94,
+        "text": "But"
+      },
+      {
+        "start": 210.94,
+        "end": 211.06,
+        "text": "I"
+      },
+      {
+        "start": 211.06,
+        "end": 211.22,
+        "text": "did"
+      },
+      {
+        "start": 211.22,
+        "end": 211.4,
+        "text": "not"
+      },
+      {
+        "start": 211.4,
+        "end": 211.56,
+        "text": "take"
+      },
+      {
+        "start": 211.56,
+        "end": 211.92,
+        "text": "it."
+      },
+      {
+        "start": 211.92,
+        "end": 212.18,
+        "text": "I"
+      },
+      {
+        "start": 212.18,
+        "end": 212.56,
+        "text": "instead"
+      },
+      {
+        "start": 212.56,
+        "end": 212.78,
+        "text": "went"
+      },
+      {
+        "start": 212.78,
+        "end": 212.9,
+        "text": "to"
+      },
+      {
+        "start": 212.9,
+        "end": 213.08,
+        "text": "work"
+      },
+      {
+        "start": 213.08,
+        "end": 213.26,
+        "text": "for"
+      },
+      {
+        "start": 213.26,
+        "end": 213.54,
+        "text": "Esther"
+      },
+      {
+        "start": 213.54,
+        "end": 213.78,
+        "text": "Bush"
+      },
+      {
+        "start": 213.78,
+        "end": 213.9,
+        "text": "of"
+      },
+      {
+        "start": 213.9,
+        "end": 214.04,
+        "text": "the"
+      },
+      {
+        "start": 214.04,
+        "end": 214.34,
+        "text": "Urban"
+      },
+      {
+        "start": 214.34,
+        "end": 214.6,
+        "text": "League"
+      },
+      {
+        "start": 214.6,
+        "end": 214.7,
+        "text": "of"
+      },
+      {
+        "start": 214.7,
+        "end": 215.08,
+        "text": "Greater"
+      },
+      {
+        "start": 215.08,
+        "end": 215.58,
+        "text": "Hartford"
+      },
+      {
+        "start": 216.6,
+        "end": 216.94,
+        "text": "as"
+      },
+      {
+        "start": 216.94,
+        "end": 217.44,
+        "text": "their"
+      },
+      {
+        "start": 217.5,
+        "end": 218,
+        "text": "education"
+      },
+      {
+        "start": 218.04,
+        "end": 218.54,
+        "text": "director"
+      },
+      {
+        "start": 218.7,
+        "end": 219.02,
+        "text": "for"
+      },
+      {
+        "start": 219.02,
+        "end": 219.52,
+        "text": "health."
+      },
+      {
+        "start": 221.04,
+        "end": 221.26,
+        "text": "So"
+      },
+      {
+        "start": 221.26,
+        "end": 221.44,
+        "text": "I"
+      },
+      {
+        "start": 221.44,
+        "end": 221.72,
+        "text": "stayed"
+      },
+      {
+        "start": 221.72,
+        "end": 221.98,
+        "text": "there"
+      },
+      {
+        "start": 221.98,
+        "end": 222.18,
+        "text": "for"
+      },
+      {
+        "start": 222.18,
+        "end": 222.68,
+        "text": "about"
+      },
+      {
+        "start": 222.9,
+        "end": 223.16,
+        "text": "three"
+      },
+      {
+        "start": 223.16,
+        "end": 223.5,
+        "text": "years"
+      },
+      {
+        "start": 223.5,
+        "end": 224,
+        "text": "maybe"
+      },
+      {
+        "start": 224.04,
+        "end": 224.34,
+        "text": "and"
+      },
+      {
+        "start": 224.34,
+        "end": 224.84,
+        "text": "then"
+      },
+      {
+        "start": 225.16,
+        "end": 225.38,
+        "text": "got"
+      },
+      {
+        "start": 225.38,
+        "end": 225.88,
+        "text": "recruited"
+      },
+      {
+        "start": 226.02,
+        "end": 226.28,
+        "text": "by"
+      },
+      {
+        "start": 226.28,
+        "end": 226.56,
+        "text": "Lewis"
+      },
+      {
+        "start": 226.56,
+        "end": 227.06,
+        "text": "Martin"
+      },
+      {
+        "start": 227.78,
+        "end": 228.28,
+        "text": "to"
+      },
+      {
+        "start": 228.42,
+        "end": 228.64,
+        "text": "work"
+      },
+      {
+        "start": 228.64,
+        "end": 228.9,
+        "text": "in"
+      },
+      {
+        "start": 228.9,
+        "end": 229.06,
+        "text": "the"
+      },
+      {
+        "start": 229.06,
+        "end": 229.28,
+        "text": "civil"
+      },
+      {
+        "start": 229.28,
+        "end": 229.54,
+        "text": "rights"
+      },
+      {
+        "start": 229.54,
+        "end": 230.04,
+        "text": "area."
+      },
+      {
+        "start": 230.2,
+        "end": 230.44,
+        "text": "What"
+      },
+      {
+        "start": 230.44,
+        "end": 230.72,
+        "text": "year"
+      },
+      {
+        "start": 230.72,
+        "end": 230.92,
+        "text": "was"
+      },
+      {
+        "start": 230.92,
+        "end": 231.42,
+        "text": "this?"
+      },
+      {
+        "start": 231.74,
+        "end": 231.94,
+        "text": "This"
+      },
+      {
+        "start": 231.94,
+        "end": 232.2,
+        "text": "was"
+      },
+      {
+        "start": 232.2,
+        "end": 232.7,
+        "text": "in"
+      },
+      {
+        "start": 232.82,
+        "end": 233.32,
+        "text": "1991,"
+      },
+      {
+        "start": 233.68,
+        "end": 234.18,
+        "text": "December"
+      },
+      {
+        "start": 234.18,
+        "end": 234.68,
+        "text": "1991."
+      },
+      {
+        "text": "Yeah.",
+        "start": 234.68,
+        "end": 235.0337
+      },
+      {
+        "start": 237.1,
+        "end": 237.26,
+        "text": "Yeah,"
+      },
+      {
+        "start": 237.26,
+        "end": 237.76,
+        "text": "because"
+      },
+      {
+        "start": 237.8,
+        "end": 237.98,
+        "text": "I"
+      },
+      {
+        "start": 237.98,
+        "end": 238.38,
+        "text": "remember"
+      },
+      {
+        "start": 238.38,
+        "end": 238.66,
+        "text": "when"
+      },
+      {
+        "start": 238.66,
+        "end": 239.06,
+        "text": "Esther"
+      },
+      {
+        "start": 239.06,
+        "end": 239.34,
+        "text": "Bush"
+      },
+      {
+        "start": 239.34,
+        "end": 239.54,
+        "text": "was"
+      },
+      {
+        "start": 239.54,
+        "end": 239.9,
+        "text": "there"
+      },
+      {
+        "start": 239.9,
+        "end": 240.1,
+        "text": "and"
+      },
+      {
+        "start": 240.1,
+        "end": 240.34,
+        "text": "then"
+      },
+      {
+        "start": 240.34,
+        "end": 240.84,
+        "text": "my"
+      },
+      {
+        "start": 241.82,
+        "end": 242.32,
+        "text": "girlfriend"
+      },
+      {
+        "start": 243.14,
+        "end": 243.45999,
+        "text": "Deborah"
+      },
+      {
+        "start": 243.45999,
+        "end": 243.95999,
+        "text": "Randolph."
+      },
+      {
+        "start": 244.26,
+        "end": 244.76,
+        "text": "Yes."
+      },
+      {
+        "start": 245.1,
+        "end": 245.4,
+        "text": "Yeah,"
+      },
+      {
+        "start": 246.04,
+        "end": 246.16,
+        "text": "I"
+      },
+      {
+        "start": 246.16,
+        "end": 246.42,
+        "text": "think"
+      },
+      {
+        "start": 246.42,
+        "end": 246.62,
+        "text": "she"
+      },
+      {
+        "start": 246.62,
+        "end": 246.9,
+        "text": "was"
+      },
+      {
+        "start": 246.9,
+        "end": 247.36,
+        "text": "on"
+      },
+      {
+        "start": 247.36,
+        "end": 247.72,
+        "text": "the"
+      },
+      {
+        "start": 247.72,
+        "end": 248.16,
+        "text": "board."
+      },
+      {
+        "start": 248.16,
+        "end": 248.48,
+        "text": "Probably"
+      },
+      {
+        "start": 248.48,
+        "end": 248.66,
+        "text": "on"
+      },
+      {
+        "start": 248.66,
+        "end": 248.8,
+        "text": "the"
+      },
+      {
+        "start": 248.8,
+        "end": 249.3,
+        "text": "board."
+      },
+      {
+        "start": 249.52,
+        "end": 249.84,
+        "text": "Yeah,"
+      },
+      {
+        "start": 249.84,
+        "end": 249.96,
+        "text": "the"
+      },
+      {
+        "start": 249.96,
+        "end": 250.46,
+        "text": "name"
+      },
+      {
+        "start": 250.84,
+        "end": 251.12,
+        "text": "sounds"
+      },
+      {
+        "start": 251.12,
+        "end": 251.2,
+        "text": "like"
+      },
+      {
+        "start": 251.2,
+        "end": 251.28,
+        "text": "a"
+      },
+      {
+        "start": 251.28,
+        "end": 251.6,
+        "text": "board"
+      },
+      {
+        "start": 251.6,
+        "end": 252.1,
+        "text": "member,"
+      },
+      {
+        "start": 252.18,
+        "end": 252.34,
+        "text": "if"
+      },
+      {
+        "start": 252.34,
+        "end": 252.5,
+        "text": "I"
+      },
+      {
+        "start": 252.5,
+        "end": 252.74,
+        "text": "remember"
+      },
+      {
+        "start": 252.74,
+        "end": 253.14,
+        "text": "right."
+      },
+      {
+        "start": 253.14,
+        "end": 253.28,
+        "text": "She"
+      },
+      {
+        "start": 253.28,
+        "end": 253.44,
+        "text": "was"
+      },
+      {
+        "start": 253.44,
+        "end": 253.62,
+        "text": "on"
+      },
+      {
+        "start": 253.62,
+        "end": 253.78,
+        "text": "the"
+      },
+      {
+        "start": 253.78,
+        "end": 254.28,
+        "text": "board"
+      },
+      {
+        "start": 254.44,
+        "end": 254.76,
+        "text": "and"
+      },
+      {
+        "start": 254.76,
+        "end": 255.02,
+        "text": "what's"
+      },
+      {
+        "start": 255.02,
+        "end": 255.14,
+        "text": "her"
+      },
+      {
+        "start": 255.14,
+        "end": 255.44,
+        "text": "name?"
+      },
+      {
+        "start": 255.44,
+        "end": 255.8,
+        "text": "Borges"
+      },
+      {
+        "start": 255.8,
+        "end": 256,
+        "text": "was"
+      },
+      {
+        "start": 256,
+        "end": 256.2,
+        "text": "the"
+      },
+      {
+        "start": 256.2,
+        "end": 256.7,
+        "text": "chair."
+      },
+      {
+        "start": 256.88,
+        "end": 257.28,
+        "text": "Frank"
+      },
+      {
+        "text": "Borges's,",
+        "start": 257.28,
+        "end": 257.8
+      },
+      {
+        "start": 257.8,
+        "end": 258.16,
+        "text": "Lynn"
+      },
+      {
+        "start": 258.16,
+        "end": 258.6,
+        "text": "Borges"
+      },
+      {
+        "start": 258.6,
+        "end": 258.76,
+        "text": "was"
+      },
+      {
+        "start": 258.76,
+        "end": 258.96,
+        "text": "the"
+      },
+      {
+        "start": 258.96,
+        "end": 259.46,
+        "text": "chair"
+      },
+      {
+        "start": 260.66,
+        "end": 260.86,
+        "text": "at"
+      },
+      {
+        "start": 260.86,
+        "end": 261,
+        "text": "the"
+      },
+      {
+        "start": 261,
+        "end": 261.5,
+        "text": "time."
+      },
+      {
+        "start": 263.26,
+        "end": 263.6,
+        "text": "That's"
+      },
+      {
+        "start": 263.6,
+        "end": 263.86,
+        "text": "when"
+      },
+      {
+        "start": 263.86,
+        "end": 264,
+        "text": "the"
+      },
+      {
+        "start": 264,
+        "end": 264.24,
+        "text": "Urban"
+      },
+      {
+        "start": 264.24,
+        "end": 264.52,
+        "text": "League"
+      },
+      {
+        "start": 264.52,
+        "end": 264.68,
+        "text": "was"
+      },
+      {
+        "start": 264.68,
+        "end": 264.84,
+        "text": "the"
+      },
+      {
+        "start": 264.84,
+        "end": 264.86,
+        "text": "Urban"
+      },
+      {
+        "start": 264.86,
+        "end": 265.02,
+        "text": "League."
+      },
+      {
+        "start": 265.56,
+        "end": 265.76,
+        "text": "It"
+      },
+      {
+        "start": 265.76,
+        "end": 265.96,
+        "text": "was"
+      },
+      {
+        "start": 265.96,
+        "end": 266.46,
+        "text": "popping."
+      },
+      {
+        "start": 267.18,
+        "end": 267.34,
+        "text": "It"
+      },
+      {
+        "start": 267.34,
+        "end": 267.74,
+        "text": "was"
+      },
+      {
+        "start": 267.74,
+        "end": 268.06,
+        "text": "really"
+      },
+      {
+        "start": 268.06,
+        "end": 268.34,
+        "text": "doing"
+      },
+      {
+        "start": 268.34,
+        "end": 268.54,
+        "text": "some"
+      },
+      {
+        "start": 268.54,
+        "end": 268.78,
+        "text": "good"
+      },
+      {
+        "start": 268.78,
+        "end": 269.28,
+        "text": "stuff."
+      },
+      {
+        "start": 269.76,
+        "end": 270.1,
+        "text": "Some"
+      },
+      {
+        "start": 270.1,
+        "end": 270.54,
+        "text": "good"
+      },
+      {
+        "start": 270.54,
+        "end": 270.92,
+        "text": "stuff."
+      },
+      {
+        "start": 270.92,
+        "end": 271.12,
+        "text": "And"
+      },
+      {
+        "start": 271.12,
+        "end": 271.3,
+        "text": "then"
+      },
+      {
+        "start": 271.3,
+        "end": 271.54,
+        "text": "their"
+      },
+      {
+        "start": 271.54,
+        "end": 272.04,
+        "text": "events"
+      },
+      {
+        "start": 272.06,
+        "end": 272.24,
+        "text": "were"
+      },
+      {
+        "start": 272.24,
+        "end": 272.5,
+        "text": "just"
+      },
+      {
+        "start": 272.5,
+        "end": 272.66,
+        "text": "the"
+      },
+      {
+        "start": 272.66,
+        "end": 273.16,
+        "text": "best."
+      },
+      {
+        "start": 273.48,
+        "end": 273.62,
+        "text": "And"
+      },
+      {
+        "start": 273.62,
+        "end": 273.74,
+        "text": "of"
+      },
+      {
+        "start": 273.74,
+        "end": 274.06,
+        "text": "course,"
+      },
+      {
+        "start": 274.06,
+        "end": 274.34,
+        "text": "Esther"
+      },
+      {
+        "start": 274.34,
+        "end": 274.6,
+        "text": "brought"
+      },
+      {
+        "start": 274.6,
+        "end": 274.78,
+        "text": "all"
+      },
+      {
+        "start": 274.78,
+        "end": 274.92,
+        "text": "of"
+      },
+      {
+        "start": 274.92,
+        "end": 275.14,
+        "text": "that"
+      },
+      {
+        "start": 275.14,
+        "end": 275.28,
+        "text": "New"
+      },
+      {
+        "start": 275.28,
+        "end": 275.68,
+        "text": "York"
+      },
+      {
+        "start": 275.68,
+        "end": 276.18,
+        "text": "sensibility"
+      },
+      {
+        "start": 276.3,
+        "end": 276.5,
+        "text": "with"
+      },
+      {
+        "start": 276.5,
+        "end": 276.82,
+        "text": "her"
+      },
+      {
+        "start": 276.82,
+        "end": 277.32,
+        "text": "and"
+      },
+      {
+        "start": 277.48,
+        "end": 277.98,
+        "text": "Pennsylvania"
+      },
+      {
+        "start": 278.2,
+        "end": 278.7,
+        "text": "stuff"
+      },
+      {
+        "start": 278.94,
+        "end": 279.22,
+        "text": "and"
+      },
+      {
+        "start": 279.22,
+        "end": 279.48,
+        "text": "she"
+      },
+      {
+        "start": 279.48,
+        "end": 279.98,
+        "text": "was"
+      },
+      {
+        "start": 280.52,
+        "end": 281.02,
+        "text": "flamboyant."
+      },
+      {
+        "start": 281.32,
+        "end": 281.82,
+        "text": "Yeah,"
+      },
+      {
+        "start": 282.04,
+        "end": 282.34,
+        "text": "yeah."
+      },
+      {
+        "start": 282.34,
+        "end": 282.5,
+        "text": "And"
+      },
+      {
+        "start": 282.5,
+        "end": 282.72,
+        "text": "when"
+      },
+      {
+        "start": 282.72,
+        "end": 282.98,
+        "text": "she"
+      },
+      {
+        "start": 282.98,
+        "end": 283.18,
+        "text": "left"
+      },
+      {
+        "start": 283.18,
+        "end": 283.4,
+        "text": "here,"
+      },
+      {
+        "start": 283.4,
+        "end": 283.58,
+        "text": "she"
+      },
+      {
+        "start": 283.58,
+        "end": 283.82,
+        "text": "went"
+      },
+      {
+        "start": 283.82,
+        "end": 284.06,
+        "text": "back"
+      },
+      {
+        "start": 284.06,
+        "end": 284.34,
+        "text": "to-"
+      },
+      {
+        "start": 284.34,
+        "end": 284.44,
+        "text": "She"
+      },
+      {
+        "start": 284.44,
+        "end": 284.62,
+        "text": "went"
+      },
+      {
+        "start": 284.62,
+        "end": 284.76,
+        "text": "to"
+      },
+      {
+        "start": 284.76,
+        "end": 285.14,
+        "text": "Pittsburgh,"
+      },
+      {
+        "start": 285.14,
+        "end": 285.44,
+        "text": "yeah."
+      },
+      {
+        "start": 287.24,
+        "end": 287.58,
+        "text": "Yeah,"
+      },
+      {
+        "start": 287.58,
+        "end": 288.08,
+        "text": "and"
+      },
+      {
+        "start": 288.54,
+        "end": 288.74,
+        "text": "what"
+      },
+      {
+        "start": 288.74,
+        "end": 288.94,
+        "text": "happened"
+      },
+      {
+        "start": 288.94,
+        "end": 289.02,
+        "text": "to"
+      },
+      {
+        "start": 289.02,
+        "end": 289.28,
+        "text": "her?"
+      },
+      {
+        "start": 289.28,
+        "end": 289.48,
+        "text": "Did"
+      },
+      {
+        "start": 289.48,
+        "end": 289.86,
+        "text": "she"
+      },
+      {
+        "start": 289.86,
+        "end": 290.36,
+        "text": "die?"
+      },
+      {
+        "start": 290.84,
+        "end": 290.98,
+        "text": "No,"
+      },
+      {
+        "start": 290.98,
+        "end": 291.1,
+        "text": "I"
+      },
+      {
+        "start": 291.1,
+        "end": 291.34,
+        "text": "don't"
+      },
+      {
+        "start": 291.34,
+        "end": 291.58,
+        "text": "think"
+      },
+      {
+        "start": 291.58,
+        "end": 291.78,
+        "text": "so."
+      },
+      {
+        "start": 291.78,
+        "end": 291.94,
+        "text": "Well,"
+      },
+      {
+        "start": 291.94,
+        "end": 292.18,
+        "text": "maybe"
+      },
+      {
+        "start": 292.18,
+        "end": 292.34,
+        "text": "she"
+      },
+      {
+        "start": 292.34,
+        "end": 292.54,
+        "text": "has."
+      },
+      {
+        "start": 292.54,
+        "end": 292.66,
+        "text": "I"
+      },
+      {
+        "start": 292.66,
+        "end": 292.96,
+        "text": "shouldn't"
+      },
+      {
+        "start": 292.96,
+        "end": 293.1,
+        "text": "say"
+      },
+      {
+        "start": 293.1,
+        "end": 293.32,
+        "text": "anything"
+      },
+      {
+        "start": 293.32,
+        "end": 293.5,
+        "text": "because"
+      },
+      {
+        "start": 293.5,
+        "end": 293.62,
+        "text": "I"
+      },
+      {
+        "start": 293.62,
+        "end": 294.12,
+        "text": "don't"
+      },
+      {
+        "text": "know.",
+        "start": 294.12,
+        "end": 294.4737
+      },
+      {
+        "start": 294.75,
+        "end": 294.95502,
+        "text": "It"
+      },
+      {
+        "start": 294.95502,
+        "end": 295.16,
+        "text": "seemed"
+      },
+      {
+        "start": 295.16,
+        "end": 295.26,
+        "text": "like"
+      },
+      {
+        "start": 295.26,
+        "end": 295.58,
+        "text": "maybe"
+      },
+      {
+        "start": 295.58,
+        "end": 295.76,
+        "text": "it"
+      },
+      {
+        "start": 295.76,
+        "end": 295.92,
+        "text": "was"
+      },
+      {
+        "start": 295.92,
+        "end": 296.38,
+        "text": "someone"
+      },
+      {
+        "start": 296.38,
+        "end": 296.88,
+        "text": "else"
+      },
+      {
+        "start": 297.34,
+        "end": 297.62,
+        "text": "that"
+      },
+      {
+        "start": 297.62,
+        "end": 297.84,
+        "text": "came"
+      },
+      {
+        "start": 297.84,
+        "end": 298.26,
+        "text": "out"
+      },
+      {
+        "start": 298.26,
+        "end": 298.62,
+        "text": "of"
+      },
+      {
+        "start": 298.62,
+        "end": 299.12,
+        "text": "Pittsburgh"
+      },
+      {
+        "start": 299.68,
+        "end": 300.08,
+        "text": "that"
+      },
+      {
+        "start": 300.08,
+        "end": 300.58,
+        "text": "died."
+      },
+      {
+        "start": 301.46,
+        "end": 301.62,
+        "text": "I"
+      },
+      {
+        "start": 301.62,
+        "end": 301.92,
+        "text": "haven't"
+      },
+      {
+        "start": 301.92,
+        "end": 302.22,
+        "text": "heard"
+      },
+      {
+        "start": 302.22,
+        "end": 302.42,
+        "text": "that"
+      },
+      {
+        "start": 302.42,
+        "end": 302.8,
+        "text": "Esther"
+      },
+      {
+        "start": 302.8,
+        "end": 303.3,
+        "text": "passed."
+      },
+      {
+        "start": 303.58,
+        "end": 304.08,
+        "text": "Maybe"
+      },
+      {
+        "start": 304.9,
+        "end": 305.36,
+        "text": "not."
+      },
+      {
+        "start": 305.36,
+        "end": 305.86,
+        "text": "No,"
+      },
+      {
+        "start": 306.04,
+        "end": 306.16,
+        "text": "I"
+      },
+      {
+        "start": 306.16,
+        "end": 306.38,
+        "text": "haven't"
+      },
+      {
+        "start": 306.38,
+        "end": 306.6,
+        "text": "heard"
+      },
+      {
+        "start": 306.6,
+        "end": 306.82,
+        "text": "that"
+      },
+      {
+        "start": 306.82,
+        "end": 307.08,
+        "text": "she"
+      },
+      {
+        "start": 307.08,
+        "end": 307.58,
+        "text": "passed."
+      },
+      {
+        "text": "And",
+        "start": 307.58,
+        "end": 307.82612
+      },
+      {
+        "start": 310.02,
+        "end": 310.32,
+        "text": "I"
+      },
+      {
+        "start": 310.32,
+        "end": 310.68,
+        "text": "made"
+      },
+      {
+        "start": 310.68,
+        "end": 311,
+        "text": "her"
+      },
+      {
+        "start": 311,
+        "end": 311.5,
+        "text": "crazy"
+      },
+      {
+        "start": 312.92,
+        "end": 313.42,
+        "text": "because"
+      },
+      {
+        "start": 313.66,
+        "end": 314.06,
+        "text": "what"
+      },
+      {
+        "start": 314.06,
+        "end": 314.22,
+        "text": "I"
+      },
+      {
+        "start": 314.22,
+        "end": 314.44,
+        "text": "did"
+      },
+      {
+        "start": 314.44,
+        "end": 314.58,
+        "text": "in"
+      },
+      {
+        "start": 314.58,
+        "end": 315.04,
+        "text": "joining"
+      },
+      {
+        "start": 315.04,
+        "end": 315.16,
+        "text": "the"
+      },
+      {
+        "start": 315.16,
+        "end": 315.36,
+        "text": "Urban"
+      },
+      {
+        "start": 315.36,
+        "end": 315.64,
+        "text": "League,"
+      },
+      {
+        "start": 315.64,
+        "end": 315.84,
+        "text": "I"
+      },
+      {
+        "start": 315.84,
+        "end": 316.08,
+        "text": "came"
+      },
+      {
+        "start": 316.08,
+        "end": 316.28,
+        "text": "in"
+      },
+      {
+        "start": 316.28,
+        "end": 316.44,
+        "text": "and"
+      },
+      {
+        "start": 316.44,
+        "end": 316.64,
+        "text": "I"
+      },
+      {
+        "start": 316.64,
+        "end": 316.8,
+        "text": "was"
+      },
+      {
+        "start": 316.8,
+        "end": 317.04,
+        "text": "able"
+      },
+      {
+        "start": 317.04,
+        "end": 317.2,
+        "text": "to"
+      },
+      {
+        "start": 317.2,
+        "end": 317.48,
+        "text": "see"
+      },
+      {
+        "start": 317.48,
+        "end": 317.64,
+        "text": "with"
+      },
+      {
+        "start": 317.64,
+        "end": 317.88,
+        "text": "my"
+      },
+      {
+        "start": 317.88,
+        "end": 318.2,
+        "text": "fresh"
+      },
+      {
+        "start": 318.2,
+        "end": 318.7,
+        "text": "eyes"
+      },
+      {
+        "start": 318.8,
+        "end": 319,
+        "text": "that"
+      },
+      {
+        "start": 319,
+        "end": 319.18,
+        "text": "the"
+      },
+      {
+        "start": 319.18,
+        "end": 319.54,
+        "text": "Urban"
+      },
+      {
+        "start": 319.54,
+        "end": 319.84,
+        "text": "League"
+      },
+      {
+        "start": 319.84,
+        "end": 319.96,
+        "text": "was"
+      },
+      {
+        "start": 319.96,
+        "end": 320.16,
+        "text": "kind"
+      },
+      {
+        "start": 320.16,
+        "end": 320.28,
+        "text": "of"
+      },
+      {
+        "start": 320.28,
+        "end": 320.78,
+        "text": "like"
+      },
+      {
+        "start": 321.98,
+        "end": 322.2,
+        "text": "in"
+      },
+      {
+        "start": 322.2,
+        "end": 322.48,
+        "text": "this"
+      },
+      {
+        "start": 322.48,
+        "end": 322.98,
+        "text": "marginal"
+      },
+      {
+        "start": 323.04,
+        "end": 323.54,
+        "text": "position"
+      },
+      {
+        "start": 323.62,
+        "end": 323.8,
+        "text": "to"
+      },
+      {
+        "start": 323.8,
+        "end": 324,
+        "text": "all"
+      },
+      {
+        "start": 324,
+        "end": 324.16,
+        "text": "of"
+      },
+      {
+        "start": 324.16,
+        "end": 324.44,
+        "text": "these"
+      },
+      {
+        "start": 324.44,
+        "end": 324.68,
+        "text": "other"
+      },
+      {
+        "start": 324.68,
+        "end": 325.18,
+        "text": "organizations,"
+      },
+      {
+        "start": 326.44,
+        "end": 326.82,
+        "text": "white"
+      },
+      {
+        "text": "organizations,",
+        "start": 326.82,
+        "end": 327.56
+      },
+      {
+        "start": 327.56,
+        "end": 327.72,
+        "text": "that"
+      },
+      {
+        "start": 327.72,
+        "end": 327.94,
+        "text": "were"
+      },
+      {
+        "start": 327.94,
+        "end": 328.32,
+        "text": "doing"
+      },
+      {
+        "start": 328.32,
+        "end": 328.82,
+        "text": "nothing"
+      },
+      {
+        "start": 328.9,
+        "end": 329.04,
+        "text": "in"
+      },
+      {
+        "start": 329.04,
+        "end": 329.1,
+        "text": "the"
+      },
+      {
+        "start": 329.1,
+        "end": 329.38,
+        "text": "black"
+      },
+      {
+        "start": 329.38,
+        "end": 329.88,
+        "text": "community,"
+      },
+      {
+        "text": "but",
+        "start": 329.88,
+        "end": 330.12612
+      },
+      {
+        "start": 330.32,
+        "end": 330.52,
+        "text": "in"
+      },
+      {
+        "start": 330.52,
+        "end": 330.82,
+        "text": "order"
+      },
+      {
+        "start": 330.82,
+        "end": 331.08,
+        "text": "to"
+      },
+      {
+        "start": 331.08,
+        "end": 331.44,
+        "text": "get"
+      },
+      {
+        "start": 331.44,
+        "end": 331.68,
+        "text": "the"
+      },
+      {
+        "start": 331.68,
+        "end": 332.18,
+        "text": "funds"
+      },
+      {
+        "text": "needed",
+        "start": 332.18,
+        "end": 332.58749
+      },
+      {
+        "text": "and",
+        "start": 332.58749,
+        "end": 332.83361
+      },
+      {
+        "start": 334.2,
+        "end": 334.34,
+        "text": "so"
+      },
+      {
+        "start": 334.34,
+        "end": 334.5,
+        "text": "the"
+      },
+      {
+        "start": 334.5,
+        "end": 334.76,
+        "text": "Urban"
+      },
+      {
+        "start": 334.76,
+        "end": 334.96,
+        "text": "League"
+      },
+      {
+        "start": 334.96,
+        "end": 335.22,
+        "text": "would"
+      },
+      {
+        "start": 335.22,
+        "end": 335.5,
+        "text": "sign"
+      },
+      {
+        "start": 335.5,
+        "end": 335.74,
+        "text": "off"
+      },
+      {
+        "start": 335.74,
+        "end": 335.86,
+        "text": "on"
+      },
+      {
+        "start": 335.86,
+        "end": 336.04,
+        "text": "all"
+      },
+      {
+        "start": 336.04,
+        "end": 336.18,
+        "text": "of"
+      },
+      {
+        "start": 336.18,
+        "end": 336.38,
+        "text": "these"
+      },
+      {
+        "start": 336.38,
+        "end": 336.82,
+        "text": "grants"
+      },
+      {
+        "start": 336.82,
+        "end": 337,
+        "text": "and"
+      },
+      {
+        "start": 337,
+        "end": 337.22,
+        "text": "then"
+      },
+      {
+        "start": 337.22,
+        "end": 337.44,
+        "text": "get,"
+      },
+      {
+        "start": 337.44,
+        "end": 337.66,
+        "text": "let's"
+      },
+      {
+        "start": 337.66,
+        "end": 337.86,
+        "text": "say,"
+      },
+      {
+        "start": 337.86,
+        "end": 338,
+        "text": "a"
+      },
+      {
+        "start": 338,
+        "end": 338.44,
+        "text": "percentage"
+      },
+      {
+        "start": 338.44,
+        "end": 338.6,
+        "text": "of"
+      },
+      {
+        "start": 338.6,
+        "end": 338.88,
+        "text": "whatever"
+      },
+      {
+        "start": 338.88,
+        "end": 339.06,
+        "text": "it"
+      },
+      {
+        "start": 339.06,
+        "end": 339.24,
+        "text": "is"
+      },
+      {
+        "start": 339.24,
+        "end": 339.4,
+        "text": "that"
+      },
+      {
+        "start": 339.4,
+        "end": 339.72,
+        "text": "they"
+      },
+      {
+        "start": 339.72,
+        "end": 340.22,
+        "text": "got."
+      },
+      {
+        "start": 340.44,
+        "end": 340.6,
+        "text": "But"
+      },
+      {
+        "start": 340.6,
+        "end": 340.76,
+        "text": "the"
+      },
+      {
+        "start": 340.76,
+        "end": 341.16,
+        "text": "percentage"
+      },
+      {
+        "start": 341.16,
+        "end": 341.32,
+        "text": "was"
+      },
+      {
+        "start": 341.32,
+        "end": 341.58,
+        "text": "so"
+      },
+      {
+        "start": 341.58,
+        "end": 341.82,
+        "text": "small"
+      },
+      {
+        "start": 341.82,
+        "end": 341.98,
+        "text": "it"
+      },
+      {
+        "start": 341.98,
+        "end": 342.18,
+        "text": "was"
+      },
+      {
+        "start": 342.18,
+        "end": 342.68,
+        "text": "negligible."
+      },
+      {
+        "start": 343.82,
+        "end": 344.32,
+        "text": "So"
+      },
+      {
+        "start": 344.7,
+        "end": 344.76,
+        "text": "I"
+      },
+      {
+        "start": 346.19238,
+        "end": 346.55048,
+        "text": "said"
+      },
+      {
+        "text": "'something",
+        "start": 346.55048,
+        "end": 346.90857
+      },
+      {
+        "start": 346.90857,
+        "end": 347.26666,
+        "text": "is"
+      },
+      {
+        "start": 347.26666,
+        "end": 347.62476,
+        "text": "wrong"
+      },
+      {
+        "text": "here.'",
+        "start": 347.62476,
+        "end": 347.98285
+      },
+      {
+        "start": 347.98285,
+        "end": 348.34094,
+        "text": "When"
+      },
+      {
+        "start": 348.34094,
+        "end": 348.69907,
+        "text": "I"
+      },
+      {
+        "start": 348.69907,
+        "end": 349.05716,
+        "text": "was"
+      },
+      {
+        "start": 349.05716,
+        "end": 349.41525,
+        "text": "with"
+      },
+      {
+        "start": 349.41525,
+        "end": 349.77335,
+        "text": "the"
+      },
+      {
+        "start": 349.77335,
+        "end": 350.13144,
+        "text": "Harford"
+      },
+      {
+        "start": 350.13144,
+        "end": 350.48953,
+        "text": "Health"
+      },
+      {
+        "start": 350.48953,
+        "end": 350.84763,
+        "text": "Network,"
+      },
+      {
+        "start": 350.84763,
+        "end": 351.20572,
+        "text": "and"
+      },
+      {
+        "start": 351.20572,
+        "end": 351.5638,
+        "text": "the"
+      },
+      {
+        "start": 351.5638,
+        "end": 351.9219,
+        "text": "Harford"
+      },
+      {
+        "start": 351.9219,
+        "end": 352.28,
+        "text": "Health"
+      },
+      {
+        "start": 352.28,
+        "end": 352.53,
+        "text": "Network"
+      },
+      {
+        "text": "was...",
+        "start": 352.655,
+        "end": 352.78
+      }
+    ],
+    "paragraphs": [
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 0.29999998,
+        "end": 1.46867998
+      },
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 19.06,
+        "end": 19.56
+      },
+      {
+        "speaker": "Femi Bogle Assegai",
+        "start": 21.81,
+        "end": 33.84
+      },
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 35.34,
+        "end": 40.739998
+      },
+      {
+        "speaker": "Femi Bogle Assegai",
+        "start": 42.12,
+        "end": 134.2
+      },
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 134.44,
+        "end": 134.69
+      },
+      {
+        "speaker": "Femi Bogle Assegai",
+        "start": 134.69,
+        "end": 230.04
+      },
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 230.2,
+        "end": 231.42
+      },
+      {
+        "speaker": "Femi Bogle Assegai",
+        "start": 231.74,
+        "end": 235.0337
+      },
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 237.1,
+        "end": 243.95999
+      },
+      {
+        "speaker": "Femi Bogle Assegai",
+        "start": 244.26,
+        "end": 244.76
+      },
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 245.1,
+        "end": 248.16
+      },
+      {
+        "speaker": "Femi Bogle Assegai",
+        "start": 248.16,
+        "end": 261.5
+      },
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 263.26,
+        "end": 265.02
+      },
+      {
+        "speaker": "Femi Bogle Assegai",
+        "start": 265.56,
+        "end": 281.02
+      },
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 281.32,
+        "end": 284.34
+      },
+      {
+        "speaker": "Femi Bogle Assegai",
+        "start": 284.34,
+        "end": 285.44
+      },
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 287.24,
+        "end": 290.36
+      },
+      {
+        "speaker": "Femi Bogle Assegai",
+        "start": 290.84,
+        "end": 294.4737
+      },
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 294.75,
+        "end": 300.58
+      },
+      {
+        "speaker": "Femi Bogle Assegai",
+        "start": 301.46,
+        "end": 303.3
+      },
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 303.58,
+        "end": 305.36
+      },
+      {
+        "speaker": "Femi Bogle Assegai",
+        "start": 305.36,
+        "end": 347.98285
+      },
+      {
+        "speaker": "Halesteen Graham Days",
+        "start": 347.98285,
+        "end": 352.78
+      }
+    ],
+    "status": "completed",
+    "storyId": "64a8418af179b87d6becc20b",
+    "updated_at": "2023-07-17T19:37:58.037Z",
+    "__v": 0
+  },
+  "story": {
+    "call_processing_status": "pending",
+    "call_processing_step": "idle",
+    "shared_page": "",
+    "transcoded": "",
+    "published": false,
+    "assetId": "",
+    "has_recording_tracks": false,
+    "meeting_ended_received": false,
+    "_id": "64a8418af179b87d6becc20b",
+    "wav_status": "completed",
+    "twilio_composition_completed": false,
+    "is_upload": true,
+    "comments": [],
+    "author": {
+      "twofactorAuthenticationEnabled": false,
+      "forceTwofactorAuthentication": false,
+      "_id": "63c85472bc0ae7b4ea519ad5",
+      "email": "timothy.2.brown@uconn.edu",
+      "is_verified": false,
+      "role": "manager",
+      "stories": [],
+      "signed_up": "2023-01-18T20:20:02.835Z",
+      "__v": 0,
+      "organization": "633329ffc1eff26474408be6",
+      "full_name": "Timothy Brown",
+      "password": "",
+      "featureFlags": {
+        "enableTwilioVideo": true,
+        "localRecordingMimeType": "video/webm;codecs=vp8,opus",
+        "disableAutomaticResolutionSwitching": false,
+        "autoChaptering": true,
+        "_id": "69c7f98ca3a7b171cfe99e86"
+      },
+      "create_gallery": true,
+      "aviary_token": "",
+      "aviary_client": ""
+    },
+    "record_date": "2023-07-07T16:47:06.262Z",
+    "registered_participants": [],
+    "registered_emails": [
+      null
+    ],
+    "notify_group": false,
+    "local_recording": false,
+    "concluded": true,
+    "featureFlags": {
+      "disableAutomaticResolutionSwitching": false,
+      "_id": "64a8418af179b87d6becc209",
+      "autoChaptering": false
+    },
+    "asyncOperations": [
+      {
+        "created_at": "2023-07-07T16:47:45.485Z",
+        "status": "completed",
+        "type": "transcribe",
+        "mode": "advanced",
+        "language_code": "",
+        "_id": "64a841b1f179b87d6becc402",
+        "updated_at": "2023-07-07T16:49:01.695Z"
+      }
+    ],
+    "indexes": [
+      {
+        "created_at": "2026-04-08T18:09:54.649Z",
+        "updated_at": "2026-04-08T18:09:54.649Z",
+        "title": "AI Generated (2026-04-08 18:09:54)",
+        "metadata": [
+          {
+            "index": 0,
+            "timecode": "00:00:19",
+            "time": {
+              "start": 19,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 1,
+                "line": "# Introduction and Professional Background",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 2,
+                "line": "> The interview begins with the subject discussing their previous work experiences, focusing on their journey to find employment and the processes involved in applying for roles. They detail their application and interview for the Teacher of the Year program administrator position at the State Department of Education and the challenges faced during this time.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 3,
+                "line": "** introduction, professional background, employment, application, interview, Teacher of the Year, State Department of Education **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** introduction, professional background, employment, application, interview, Teacher of the Year, State Department of Education **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 4,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 5,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Introduction and Professional Background",
+            "synopsis": "The interview begins with the subject discussing their previous work experiences, focusing on their journey to find employment and the processes involved in applying for roles. They detail their application and interview for the Teacher of the Year program administrator position at the State Department of Education and the challenges faced during this time.",
+            "notes": "",
+            "keywords": "introduction, professional background, employment, application, interview, Teacher of the Year, State Department of Education"
+          },
+          {
+            "index": 6,
+            "timecode": "00:02:00",
+            "time": {
+              "start": 120,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 7,
+                "line": "# Challenges and Controversies in Job Offer",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 8,
+                "line": "> The subject delves into the complications they faced after being offered a position at the State Department of Education. They highlight issues related to racial politics, salary negotiations, and the resulting tension and misunderstandings that arose during the hiring process.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 9,
+                "line": "** challenges, job offer, controversies, racial politics, salary negotiation, tensions **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** challenges, job offer, controversies, racial politics, salary negotiation, tensions **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 10,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 11,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Challenges and Controversies in Job Offer",
+            "synopsis": "The subject delves into the complications they faced after being offered a position at the State Department of Education. They highlight issues related to racial politics, salary negotiations, and the resulting tension and misunderstandings that arose during the hiring process.",
+            "notes": "",
+            "keywords": "challenges, job offer, controversies, racial politics, salary negotiation, tensions"
+          },
+          {
+            "index": 12,
+            "timecode": "00:03:41",
+            "time": {
+              "start": 221,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 13,
+                "line": "# Career Shift and New Opportunities",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 14,
+                "line": "> Following the conflicts at the State Department, the subject discusses their decision not to pursue the contested position further. They describe moving on to work with Esther Bush at the Urban League of Greater Hartford and later being recruited by Lewis Martin to work in civil rights.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 15,
+                "line": "** career shift, new opportunities, Urban League of Greater Hartford, Esther Bush, civil rights, Lewis Martin **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** career shift, new opportunities, Urban League of Greater Hartford, Esther Bush, civil rights, Lewis Martin **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 16,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 17,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Career Shift and New Opportunities",
+            "synopsis": "Following the conflicts at the State Department, the subject discusses their decision not to pursue the contested position further. They describe moving on to work with Esther Bush at the Urban League of Greater Hartford and later being recruited by Lewis Martin to work in civil rights.",
+            "notes": "",
+            "keywords": "career shift, new opportunities, Urban League of Greater Hartford, Esther Bush, civil rights, Lewis Martin"
+          },
+          {
+            "index": 18,
+            "timecode": "00:05:07",
+            "time": {
+              "start": 307,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 19,
+                "line": "# Impact and Insights at the Urban League",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 20,
+                "line": "> The interviewee reflects on their time at the Urban League, describing the organization’s role and their contributions. They discuss identifying and challenging the systemic issues hindering the effectiveness of the Urban League in the black community and their efforts to push for organizational change.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 21,
+                "line": "** Urban League, contributions, systemic issues, black community, organizational change **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** Urban League, contributions, systemic issues, black community, organizational change **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 22,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 23,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 24,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Impact and Insights at the Urban League",
+            "synopsis": "The interviewee reflects on their time at the Urban League, describing the organization’s role and their contributions. They discuss identifying and challenging the systemic issues hindering the effectiveness of the Urban League in the black community and their efforts to push for organizational change.",
+            "notes": "",
+            "keywords": "Urban League, contributions, systemic issues, black community, organizational change"
+          }
+        ],
+        "notes": [
+          {
+            "children": [
+              {
+                "text": "[00:00:19]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Introduction and Professional Background"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The interview begins with the subject discussing their previous work experiences, focusing on their journey to find employment and the processes involved in applying for roles. They detail their application and interview for the Teacher of the Year program administrator position at the State Department of Education and the challenges faced during this time."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** introduction, professional background, employment, application, interview, Teacher of the Year, State Department of Education **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:02:00]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Challenges and Controversies in Job Offer"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The subject delves into the complications they faced after being offered a position at the State Department of Education. They highlight issues related to racial politics, salary negotiations, and the resulting tension and misunderstandings that arose during the hiring process."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** challenges, job offer, controversies, racial politics, salary negotiation, tensions **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:03:41]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Career Shift and New Opportunities"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Following the conflicts at the State Department, the subject discusses their decision not to pursue the contested position further. They describe moving on to work with Esther Bush at the Urban League of Greater Hartford and later being recruited by Lewis Martin to work in civil rights."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** career shift, new opportunities, Urban League of Greater Hartford, Esther Bush, civil rights, Lewis Martin **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:05:07]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Impact and Insights at the Urban League"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The interviewee reflects on their time at the Urban League, describing the organization’s role and their contributions. They discuss identifying and challenging the systemic issues hindering the effectiveness of the Urban League in the black community and their efforts to push for organizational change."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** Urban League, contributions, systemic issues, black community, organizational change **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "_id": "69d699f2f028cfe93f0833cf"
+      }
+    ],
+    "created_at": "2023-07-07T16:47:06.328Z",
+    "updated_at": "2026-04-08T18:09:54.649Z",
+    "__v": 0,
+    "opentok_session_id": "2_MX40NTk3Njc0Mn4xMjcuMC4wLjF-MTY4ODc0ODQyNjQxOX5XNENtMXdDWlZQZnVZWW16YldaSzRsWGh-fn4",
+    "custom_archive_media_type": "audio/wav",
+    "custom_archive_url": "uploads/b57b6ad7-78bd-4acd-ac1f-e16b2845e428/archive.wav",
+    "notes": "",
+    "title": "Femi Bogle Assagai Oral History Part 4",
+    "wav_url": "uploads/b57b6ad7-78bd-4acd-ac1f-e16b2845e428/archive.wav",
+    "duration": 356.623673,
+    "recording_size": 62941184,
+    "deepgramOp": "0a87fdf7-795b-4f5b-a213-c961939aca40",
+    "weaviate_operation": {
+      "chunk_count": 3,
+      "content_version": 1,
+      "model_used": "text-embedding-3-small",
+      "status": "completed"
+    },
+    "description": "The interview discusses a professional struggle involving a woman who, upon arriving in a new country, applied for a job as the administrator for the Apple program within the State Department of Education. Despite her qualifications, she faced significant challenges, including a controversial hiring decision influenced by racial politics and salary disputes, ultimately leading her to decline the position. She eventually worked for the Urban League of Greater Hartford as education director, contributing to various initiatives alongside Esther Bush, and had insights into financial and organizational dynamics within the nonprofit sector. The conversation also touches on her later involvement in civil rights work.",
+    "muxAssets": [],
+    "chat": []
+  },
+  "videoURL": "https://stream.mux.com/5fn00M3PZiSP4W01S02Zth1YS9ZY4SochRE00NVB72UC8U4/audio.m4a",
+  "participants": [
+    {
+      "_id": "651d72b63d3c3368b04a72e6",
+      "name": "Femi Bogle-Assegai",
+      "user": "63c85472bc0ae7b4ea519ad5",
+      "story": "64a8418af179b87d6becc20b",
+      "__v": 0
+    },
+    {
+      "_id": "651d72b63d3c3368b04a72e7",
+      "name": "Halesteen Graham Days",
+      "user": "63c85472bc0ae7b4ea519ad5",
+      "story": "64a8418af179b87d6becc20b",
+      "__v": 0
+    }
+  ],
+  "tags": [],
+  "mux_playback_id": "5fn00M3PZiSP4W01S02Zth1YS9ZY4SochRE00NVB72UC8U4"
+}
