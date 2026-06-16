@@ -27,7 +27,7 @@ export type ChatProvider = {
 };
 
 const DEFAULT_MODELS: Record<ChatProviderName, string> = {
-  anthropic: 'claude-sonnet-4-20250514',
+  anthropic: 'claude-sonnet-4-6',
   openai: 'gpt-4.1-mini',
   'openai-compatible': 'gpt-4.1-mini',
 };
